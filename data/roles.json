@@ -1,20 +1,187 @@
-[
-  {
-   "createdAt": "2023-04-10T06:22:04.461Z",
-   "name": "Admin",
-   "count": 2,
-   "id": "1"
-  },
-  {
-   "createdAt": "2023-04-11T03:32:55.672Z",
-   "name": "Reviewer",
-   "count": 1,
-   "id": "2"
-  },
-  {
-   "createdAt": "2023-04-11T04:47:54.354Z",
-   "name": "Assessor",
-   "count": 1,
-   "id": "3"
-  }
- ]
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+      "createdDate": "2023-04-10T06:22:04.461Z",
+      "roleName": "Admin",
+      "isPredifned": true,
+      "users": [
+        {
+          "userName": "Spencer Balistreri",
+          "clients": [
+            "HP",
+            "IBM"
+          ]
+        },
+        {
+          "userName": "John Doe",
+          "clients": [
+            "HP",
+            "IBM"
+          ]
+        }
+      ],
+      "resources": [
+        {
+          "id": 1,
+          "resourceName": "Users",
+          "identifier": "USERS",
+          "isActive": true,
+          "createdDate": "2021-05-09T16:28:57.6482611Z",
+          "actions": [
+            {
+              "id": 1,
+              "actionName": "Update",
+              "identifier": "UPDATE",
+              "createdDate": "2021-05-09T16:28:57.3200975Z",
+              "checked": false
+            },
+            {
+              "id": 2,
+              "actionName": "Read",
+              "identifier": "READ",
+              "createdDate": "2021-05-09T16:28:57.3044744Z",
+              "checked": false
+            },
+            {
+              "id": 3,
+              "actionName": "Create",
+              "identifier": "CREATE",
+              "createdDate": "2021-05-09T16:28:57.3044744Z",
+              "checked": false
+            },
+            {
+              "id": 4,
+              "actionName": "Delete",
+              "identifier": "DELETE",
+              "createdDate": "2021-05-09T16:28:57.0388421Z",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "resourceName": "Roles",
+          "identifier": "ROLES",
+          "isActive": true,
+          "createdDate": "2021-05-09T16:28:57.6482611Z",
+          "actions": [
+            {
+              "id": 1,
+              "actionName": "Update",
+              "identifier": "UPDATE",
+              "createdDate": "2021-05-09T16:28:57.3200975Z",
+              "checked": false
+            },
+            {
+              "id": 2,
+              "actionName": "Read",
+              "identifier": "READ",
+              "createdDate": "2021-05-09T16:28:57.3044744Z",
+              "checked": false
+            },
+            {
+              "id": 3,
+              "actionName": "Create",
+              "identifier": "CREATE",
+              "createdDate": "2021-05-09T16:28:57.3044744Z",
+              "checked": false
+            },
+            {
+              "id": 4,
+              "actionName": "Delete",
+              "identifier": "DELETE",
+              "createdDate": "2021-05-09T16:28:57.0388421Z",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "resourceName": "Framework",
+          "identifier": "FRAMEWORK",
+          "isActive": true,
+          "createdDate": "2021-05-09T16:28:57.6482611Z",
+          "actions": [
+            {
+              "id": 1,
+              "actionName": "Update",
+              "identifier": "UPDATE",
+              "createdDate": "2021-05-09T16:28:57.3200975Z",
+              "checked": false
+            },
+            {
+              "id": 2,
+              "actionName": "Read",
+              "identifier": "READ",
+              "createdDate": "2021-05-09T16:28:57.3044744Z",
+              "checked": false
+            },
+            {
+              "id": 3,
+              "actionName": "Create",
+              "identifier": "CREATE",
+              "createdDate": "2021-05-09T16:28:57.3044744Z",
+              "checked": false
+            },
+            {
+              "id": 4,
+              "actionName": "Delete",
+              "identifier": "DELETE",
+              "createdDate": "2021-05-09T16:28:57.0388421Z",
+              "checked": false
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "createdDate": "2023-04-11T03:32:55.672Z",
+      "name": "Reviewer",
+      "isPredifned": true,
+      "users": [
+        {
+          "userName": "Tommy Hilfiger",
+          "clients": [
+            "HP",
+            "IBM"
+          ]
+        },
+        {
+          "userName": "Kathy West DDS",
+          "clients": [
+            "HP",
+            "IBM"
+          ]
+        }
+      ],
+      "resources": [],
+      "id": 2
+    },
+    {
+      "createdDate": "2023-04-11T04:47:54.354Z",
+      "name": "Assessor",
+      "isPredifned": true,
+      "users": [
+        {
+          "userName": "Johnny",
+          "clients": [
+            "HP",
+            "IBM"
+          ]
+        },
+        {
+          "userName": "Irma Bruen",
+          "clients": [
+            "HP",
+            "IBM"
+          ]
+        }
+      ],
+      "resources": [],
+      "id": 3
+    }
+  ]
+}

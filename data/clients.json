@@ -1,34 +1,38 @@
-[
-  {
-   "createdAt": "2023-04-10T20:05:24.318Z",
-   "name": "ACME CORPORATION",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Banaglore, India",
-   "assessments": 83,
-   "id": "1"
-  },
-  {
-   "createdAt": "2023-04-10T12:05:51.340Z",
-   "name": "GLOBEX INDUSTRIES",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Banaglore, India",
-   "assessments": 48,
-   "id": "2"
-  },
-  {
-   "createdAt": "2023-04-10T17:18:56.239Z",
-   "name": "HOOLI TECH",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Banaglore, India",
-   "assessments": 51,
-   "id": "3"
-  },
-  {
-    "createdAt": "2023-04-10T17:18:56.239Z",
-    "name": "INTECH",
-    "avatar": "https://loremflickr.com/640/480/business",
-    "location": "Banaglore, India",
-    "assessments": 51,
-    "id": "4"
-  }
-]
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+     "createdAt": "2023-04-10T20:05:24.318Z",
+     "name": "ACME CORPORATION",
+     "avatar": "https://loremflickr.com/640/480/business",
+     "location": "Banaglore, India",
+     "assessments": 83,
+     "id": "1"
+    },
+    {
+     "createdAt": "2023-04-10T12:05:51.340Z",
+     "name": "GLOBEX INDUSTRIES",
+     "avatar": "https://loremflickr.com/640/480/business",
+     "location": "Banaglore, India",
+     "assessments": 48,
+     "id": "2"
+    },
+    {
+     "createdAt": "2023-04-10T17:18:56.239Z",
+     "name": "HOOLI TECH",
+     "avatar": "https://loremflickr.com/640/480/business",
+     "location": "Banaglore, India",
+     "assessments": 51,
+     "id": "3"
+    },
+    {
+      "createdAt": "2023-04-10T17:18:56.239Z",
+      "name": "INTECH",
+      "avatar": "https://loremflickr.com/640/480/business",
+      "location": "Banaglore, India",
+      "assessments": 51,
+      "id": "4"
+    }
+  ]
+}
