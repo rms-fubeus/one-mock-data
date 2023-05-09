@@ -1,17 +1,343 @@
 {
-  "createdAt": "2023-04-10T20:05:24.318Z",
-  "clientName": "ACME CORPORATION",
-  "avatar": "https://loremflickr.com/640/480/business",
-  "location": "Banaglore, India",
-  "assessments": 83,
-  "id": "1",
-  "clientPoc": "",
-  "msaStartDate": "2023-04-10T20:05:24.318Z",
-  "msaEndDate": "2023-05-10T20:05:24.318Z",
-  "industry": "TECH",
-  "sector": "SSA",
-  "servicesPoc": "ABC",
-  "salesPoc": "ABC",
-  "country": "India",
-  "city": "Banaglore"
+  "id": 1,
+  "clientInfo": {
+      "clientImage": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpg",
+      "clientName": "Acme Corporation",
+      "createdDate": "12/22/2020",
+      "city": "banglore",
+      "country": "india",
+      "clientPoc": "Amanda Haydenson",
+      "msaStartDate": "12/22/2222",
+      "msaEndDate": "4/22/2222",
+      "sector": "construction",
+      "industry": "software",
+      "servicesPoc": "john",
+      "selesPoc": "mike"
+  },
+  "teamInformation": [
+      {
+          "userId": 1,
+          "profileImage": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpg",
+          "userName": "Amanda Knight",
+          "email": "amandah@acme.com",
+          "role": {
+              "id": 1,
+              "name": "reviewer"
+          }
+      },    {
+          "userId": 2,
+          "userProfileImg": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpg",
+          "userName": "Harmeenpreet Kaur",
+          "email": "amandah@acme.com",
+          "role": {
+              "id": 2,
+              "name": "Assessor"
+          }
+      },    {
+          "userId": 3,
+          "userProfileImg": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpg",
+          "userName": "sneha",
+          "email": "amandah@acme.com",
+          "role": {
+              "id": 2,
+              "name": "Assessor"
+          }
+      }
+  ],
+  "timeLine": [
+      {
+          "date": "Jan 3, 2017",
+          "activity": [
+              {
+                  "id": 1,
+                  "time": "12:30",
+                  "description": "dfghkjhgfhttps://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj"
+              },
+              {
+                  "id": 2,
+                  "time": "08:30",
+                  "description": "dfghkjhgfhttps://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj"
+              }
+          ]
+      },
+      {
+          "date": "Jan 2, 2017",
+          "activity": [
+              {
+                  "id": 1,
+                  "time": "12:30",
+                  "description": "dfghkjhgfhttps://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj"
+              }
+          ]
+      },
+      {
+          "date": "Jan 1, 2017",
+          "activity": [
+              {
+                  "id": 1,
+                  "time": "12:30",
+                  "description": "dfghkjhgfhttps://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj"
+              }
+          ]
+      },
+      {
+          "date": "Jan 1, 2017",
+          "activity": [
+              {
+                  "id": 1,
+                  "time": "12:30",
+                  "description": "dfghkjhgfhttps://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj"
+              }
+          ]
+      }
+  ],
+  "documentInfo": [
+      {
+          "id": 1,
+          "fileName": "Clinet Info.pdf",
+          "fileUrl": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj",
+          "createdDate": "12/22/2020",
+          "fileType": {
+              "id": 1,
+              "name": "pdf"
+          },
+          "assessement": {
+              "id": 1,
+              "name": "maturity assessement"
+          }
+      },
+      {
+          "id": 2,
+          "fileName": "Clinet Info.docx",
+          "fileUrl": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj",
+          "createdDate": "12/22/2020",
+          "fileType": {
+              "id": 2,
+              "name": "docx"
+          },
+          "assessement": {
+              "id": 1,
+              "name": "maturity assessement"
+          }
+      },
+      {
+          "id": 3,
+          "fileName": "Clinet Info.csv",
+          "fileUrl": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj",
+          "createdDate": "12/22/2020",
+          "fileType": {
+              "id": 3,
+              "name": "csv"
+          },
+          "assessement": {
+              "id": 1,
+              "name": "maturity assessement"
+          }
+      },
+      {
+          "id": 4,
+          "fileName": "Clinet Info.jpg",
+          "fileUrl": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj",
+          "createdDate": "12/22/2020",
+          "fileType": {
+              "id": 4,
+              "name": "jpg"
+          },
+          "assessement": {
+              "id": 1,
+              "name": "maturity assessement"
+          }
+      },
+      {
+          "id": 5,
+          "fileName": "Clinet Info.pptx",
+          "fileUrl": "https://loremflickr.com/cache/resized/65535_48203718142_fe853819e9_b_640_480_nofilter.jpghj",
+          "createdDate": "12/22/2020",
+          "fileType": {
+              "id": 5,
+              "name": "pptx"
+          },
+          "assessement": {
+              "id": 1,
+              "name": "maturity assessement"
+          }
+      }
+  ],
+  "assessmentInfo": [
+      {
+          "id": 1,
+          "assessementName": "Risk assessement",
+          "frameWork": "NIST",
+          "assessementType": "Maturity",
+          "isSurvey": true,
+          "isInterview": true,
+          "createdDate": "12/22/2020",
+          "status": {
+              "id": 1,
+              "name": "Ongoing"
+          },
+          "userImages": [
+              {
+                  "id": 1,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 2,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 3,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 4,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 5,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              }
+          ]
+      },
+      {
+          "id": 1,
+          "assessementName": "Maturity assessement",
+          "frameWork": "NIST",
+          "assessementType": "Maturity",
+          "isSurvey": true,
+          "isInterview": true,
+          "createdDate": "12/22/2020",
+          "status": {
+              "id": 2,
+              "name": "In Draft"
+          },
+          "userImages": [
+              {
+                  "id": 1,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 2,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 3,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 4,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 5,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              }
+          ]
+      },
+      {
+          "id": 1,
+          "assessementName": "RISK assessement",
+          "frameWork": "NIST",
+          "assessementType": "Maturity",
+          "isSurvey": true,
+          "isInterview": true,
+          "createdDate": "12/22/2020",
+          "status": {
+              "id": 3,
+              "name": "Completed"
+          },
+          "userImages": [
+              {
+                  "id": 1,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 2,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 3,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 4,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 5,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              }
+          ]
+      },
+      {
+          "id": 1,
+          "assessementName": "SSA assessement",
+          "frameWork": "NIST",
+          "assessementType": "Maturity",
+          "isSurvey": true,
+          "isInterview": true,
+          "createdDate": "12/22/2020",
+          "status": {
+              "id": 4,
+              "name": "Incompleted"
+          },
+          "userImages": [
+              {
+                  "id": 1,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 2,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 3,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 4,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 5,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              }
+          ]
+      },
+      {
+          "id": 1,
+          "assessementName": "Risk assessement",
+          "frameWork": "NIST",
+          "assessementType": "Maturity",
+          "isSurvey": true,
+          "isInterview": true,
+          "createdDate": "12/22/2020",
+          "status": {
+              "id": 3,
+              "name": "Completed"
+          },
+          "userImages": [
+              {
+                  "id": 1,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 2,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 3,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 4,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              },
+              {
+                  "id": 5,
+                  "url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg"
+              }
+          ]
+      }
+  ]
 }
