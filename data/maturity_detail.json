@@ -25,14 +25,6 @@
       {
         "id": 5,
         "name": "optimized"
-      },
-      {
-        "id": 6,
-        "name": "Header1"
-      },
-      {
-        "id": 7,
-        "name": "Header2"
       }
     ],
     "domain": [
@@ -68,14 +60,6 @@
                   {
                     "id": 5,
                     "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
-                    "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
               },
@@ -83,7 +67,7 @@
                 "id": 2,
                 "subCategory": "ID.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -102,14 +86,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -118,7 +94,7 @@
                 "id": 3,
                 "subCategory": "ID.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -137,14 +113,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -153,7 +121,7 @@
                 "id": 4,
                 "subCategory": "ID.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -172,14 +140,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -188,7 +148,7 @@
                 "id": 5,
                 "subCategory": "ID.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -207,14 +167,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -223,7 +175,7 @@
                 "id": 6,
                 "subCategory": "ID.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -242,14 +194,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -264,7 +208,7 @@
                 "id": 1,
                 "subCategory": "ID.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -283,14 +227,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -299,7 +235,7 @@
                 "id": 2,
                 "subCategory": "ID.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -318,14 +254,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -334,7 +262,7 @@
                 "id": 3,
                 "subCategory": "ID.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -353,14 +281,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -369,7 +289,7 @@
                 "id": 4,
                 "subCategory": "ID.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -388,14 +308,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -404,7 +316,7 @@
                 "id": 5,
                 "subCategory": "ID.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -423,14 +335,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -439,7 +343,7 @@
                 "id": 6,
                 "subCategory": "ID.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -458,14 +362,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -480,7 +376,7 @@
                 "id": 1,
                 "subCategory": "ID.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -499,14 +395,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -515,7 +403,7 @@
                 "id": 2,
                 "subCategory": "ID.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -534,14 +422,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -550,7 +430,7 @@
                 "id": 3,
                 "subCategory": "ID.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -569,14 +449,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -585,7 +457,7 @@
                 "id": 4,
                 "subCategory": "ID.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -604,14 +476,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -620,7 +484,7 @@
                 "id": 5,
                 "subCategory": "ID.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -639,14 +503,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -655,7 +511,7 @@
                 "id": 6,
                 "subCategory": "ID.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -674,14 +530,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -696,7 +544,7 @@
                 "id": 1,
                 "subCategory": "ID.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -715,14 +563,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -731,7 +571,7 @@
                 "id": 2,
                 "subCategory": "ID.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -750,14 +590,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -766,7 +598,7 @@
                 "id": 3,
                 "subCategory": "ID.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -785,14 +617,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -801,7 +625,7 @@
                 "id": 4,
                 "subCategory": "ID.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -820,14 +644,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -836,7 +652,7 @@
                 "id": 5,
                 "subCategory": "ID.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -855,14 +671,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -871,7 +679,7 @@
                 "id": 6,
                 "subCategory": "ID.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -890,14 +698,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -912,7 +712,7 @@
                 "id": 1,
                 "subCategory": "ID.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -931,14 +731,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -947,7 +739,7 @@
                 "id": 2,
                 "subCategory": "ID.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -966,14 +758,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -982,7 +766,7 @@
                 "id": 3,
                 "subCategory": "ID.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1001,14 +785,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1017,7 +793,7 @@
                 "id": 4,
                 "subCategory": "ID.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1036,14 +812,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1052,7 +820,7 @@
                 "id": 5,
                 "subCategory": "ID.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1071,14 +839,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1087,7 +847,7 @@
                 "id": 6,
                 "subCategory": "ID.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1106,14 +866,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1134,7 +886,7 @@
                 "id": 1,
                 "subCategory": "PT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1153,14 +905,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1169,7 +913,7 @@
                 "id": 2,
                 "subCategory": "PT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1188,14 +932,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1204,7 +940,7 @@
                 "id": 3,
                 "subCategory": "PT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1223,14 +959,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1239,7 +967,7 @@
                 "id": 4,
                 "subCategory": "PT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1258,14 +986,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1274,7 +994,7 @@
                 "id": 5,
                 "subCategory": "PT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1293,14 +1013,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1309,7 +1021,7 @@
                 "id": 6,
                 "subCategory": "PT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1328,14 +1040,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1350,7 +1054,7 @@
                 "id": 1,
                 "subCategory": "PT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1369,14 +1073,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1385,7 +1081,7 @@
                 "id": 2,
                 "subCategory": "PT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1404,14 +1100,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1420,7 +1108,7 @@
                 "id": 3,
                 "subCategory": "PT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1439,14 +1127,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1455,7 +1135,7 @@
                 "id": 4,
                 "subCategory": "PT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1474,14 +1154,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1490,7 +1162,7 @@
                 "id": 5,
                 "subCategory": "PT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1509,14 +1181,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1525,7 +1189,7 @@
                 "id": 6,
                 "subCategory": "PT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1544,14 +1208,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1566,7 +1222,7 @@
                 "id": 1,
                 "subCategory": "PT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1585,14 +1241,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1601,7 +1249,7 @@
                 "id": 2,
                 "subCategory": "PT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1620,14 +1268,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1636,7 +1276,7 @@
                 "id": 3,
                 "subCategory": "PT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1655,14 +1295,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1671,7 +1303,7 @@
                 "id": 4,
                 "subCategory": "PT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1690,14 +1322,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1706,7 +1330,7 @@
                 "id": 5,
                 "subCategory": "PT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1725,14 +1349,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1741,7 +1357,7 @@
                 "id": 6,
                 "subCategory": "PT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1760,14 +1376,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1782,7 +1390,7 @@
                 "id": 1,
                 "subCategory": "PT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1801,14 +1409,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1817,7 +1417,7 @@
                 "id": 2,
                 "subCategory": "PT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1836,14 +1436,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1852,7 +1444,7 @@
                 "id": 3,
                 "subCategory": "PT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1871,14 +1463,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1887,7 +1471,7 @@
                 "id": 4,
                 "subCategory": "PT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1906,14 +1490,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1922,7 +1498,7 @@
                 "id": 5,
                 "subCategory": "PT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1941,14 +1517,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1957,7 +1525,7 @@
                 "id": 6,
                 "subCategory": "PT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -1976,14 +1544,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -1998,7 +1558,7 @@
                 "id": 1,
                 "subCategory": "PT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2017,14 +1577,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2033,7 +1585,7 @@
                 "id": 2,
                 "subCategory": "PT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2052,14 +1604,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2068,7 +1612,7 @@
                 "id": 3,
                 "subCategory": "PT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2087,14 +1631,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2103,7 +1639,7 @@
                 "id": 4,
                 "subCategory": "PT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2122,14 +1658,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2138,7 +1666,7 @@
                 "id": 5,
                 "subCategory": "PT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2157,14 +1685,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2173,7 +1693,7 @@
                 "id": 6,
                 "subCategory": "PT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2192,14 +1712,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2220,7 +1732,7 @@
                 "id": 1,
                 "subCategory": "DT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2239,14 +1751,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2255,7 +1759,7 @@
                 "id": 2,
                 "subCategory": "DT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2274,14 +1778,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2290,7 +1786,7 @@
                 "id": 3,
                 "subCategory": "DT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2309,14 +1805,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2325,7 +1813,7 @@
                 "id": 4,
                 "subCategory": "DT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2344,14 +1832,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2360,7 +1840,7 @@
                 "id": 5,
                 "subCategory": "DT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2379,14 +1859,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2395,7 +1867,7 @@
                 "id": 6,
                 "subCategory": "DT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2414,14 +1886,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2436,7 +1900,7 @@
                 "id": 1,
                 "subCategory": "DT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2455,14 +1919,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2471,7 +1927,7 @@
                 "id": 2,
                 "subCategory": "DT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2490,14 +1946,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2506,7 +1954,7 @@
                 "id": 3,
                 "subCategory": "DT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2525,14 +1973,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2541,7 +1981,7 @@
                 "id": 4,
                 "subCategory": "DT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2560,14 +2000,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2576,7 +2008,7 @@
                 "id": 5,
                 "subCategory": "DT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2595,14 +2027,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2611,7 +2035,7 @@
                 "id": 6,
                 "subCategory": "DT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2630,14 +2054,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2652,7 +2068,7 @@
                 "id": 1,
                 "subCategory": "DT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2671,14 +2087,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2687,7 +2095,7 @@
                 "id": 2,
                 "subCategory": "DT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2706,14 +2114,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2722,7 +2122,7 @@
                 "id": 3,
                 "subCategory": "DT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2741,14 +2141,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2757,7 +2149,7 @@
                 "id": 4,
                 "subCategory": "DT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2776,14 +2168,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2792,7 +2176,7 @@
                 "id": 5,
                 "subCategory": "DT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2811,14 +2195,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2827,7 +2203,7 @@
                 "id": 6,
                 "subCategory": "DT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2846,14 +2222,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2868,7 +2236,7 @@
                 "id": 1,
                 "subCategory": "DT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2887,14 +2255,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2903,7 +2263,7 @@
                 "id": 2,
                 "subCategory": "DT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2922,14 +2282,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2938,7 +2290,7 @@
                 "id": 3,
                 "subCategory": "DT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2957,14 +2309,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -2973,7 +2317,7 @@
                 "id": 4,
                 "subCategory": "DT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -2992,14 +2336,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3008,7 +2344,7 @@
                 "id": 5,
                 "subCategory": "DT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3027,14 +2363,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3043,7 +2371,7 @@
                 "id": 6,
                 "subCategory": "DT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3062,14 +2390,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3084,7 +2404,7 @@
                 "id": 1,
                 "subCategory": "DT.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3103,14 +2423,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3119,7 +2431,7 @@
                 "id": 2,
                 "subCategory": "DT.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3138,14 +2450,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3154,7 +2458,7 @@
                 "id": 3,
                 "subCategory": "DT.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3173,14 +2477,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3189,7 +2485,7 @@
                 "id": 4,
                 "subCategory": "DT.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3208,14 +2504,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3224,7 +2512,7 @@
                 "id": 5,
                 "subCategory": "DT.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3243,14 +2531,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3259,7 +2539,7 @@
                 "id": 6,
                 "subCategory": "DT.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3278,14 +2558,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3306,7 +2578,7 @@
                 "id": 1,
                 "subCategory": "RP.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3325,14 +2597,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3341,7 +2605,7 @@
                 "id": 2,
                 "subCategory": "RP.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3360,14 +2624,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3376,7 +2632,7 @@
                 "id": 3,
                 "subCategory": "RP.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3395,14 +2651,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3411,7 +2659,7 @@
                 "id": 4,
                 "subCategory": "RP.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3430,14 +2678,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3446,7 +2686,7 @@
                 "id": 5,
                 "subCategory": "RP.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3465,14 +2705,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3481,7 +2713,7 @@
                 "id": 6,
                 "subCategory": "RP.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3500,14 +2732,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3522,7 +2746,7 @@
                 "id": 1,
                 "subCategory": "RP.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3541,14 +2765,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3557,7 +2773,7 @@
                 "id": 2,
                 "subCategory": "RP.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3576,14 +2792,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3592,7 +2800,7 @@
                 "id": 3,
                 "subCategory": "RP.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3611,14 +2819,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3627,7 +2827,7 @@
                 "id": 4,
                 "subCategory": "RP.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3646,14 +2846,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3662,7 +2854,7 @@
                 "id": 5,
                 "subCategory": "RP.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3681,14 +2873,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3697,7 +2881,7 @@
                 "id": 6,
                 "subCategory": "RP.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3716,14 +2900,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3738,7 +2914,7 @@
                 "id": 1,
                 "subCategory": "RP.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3757,14 +2933,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3773,7 +2941,7 @@
                 "id": 2,
                 "subCategory": "RP.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3792,14 +2960,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3808,7 +2968,7 @@
                 "id": 3,
                 "subCategory": "RP.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3827,14 +2987,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3843,7 +2995,7 @@
                 "id": 4,
                 "subCategory": "RP.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3862,14 +3014,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3878,7 +3022,7 @@
                 "id": 5,
                 "subCategory": "RP.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3897,14 +3041,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3913,7 +3049,7 @@
                 "id": 6,
                 "subCategory": "RP.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3932,14 +3068,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3954,7 +3082,7 @@
                 "id": 1,
                 "subCategory": "RP.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -3973,14 +3101,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -3989,7 +3109,7 @@
                 "id": 2,
                 "subCategory": "RP.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4008,14 +3128,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4024,7 +3136,7 @@
                 "id": 3,
                 "subCategory": "RP.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4043,14 +3155,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4059,7 +3163,7 @@
                 "id": 4,
                 "subCategory": "RP.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4078,14 +3182,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4094,7 +3190,7 @@
                 "id": 5,
                 "subCategory": "RP.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4113,14 +3209,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4129,7 +3217,7 @@
                 "id": 6,
                 "subCategory": "RP.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4148,14 +3236,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4170,7 +3250,7 @@
                 "id": 1,
                 "subCategory": "RP.AM -1 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4189,14 +3269,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4205,7 +3277,7 @@
                 "id": 2,
                 "subCategory": "RP.AM -2 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4224,14 +3296,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4240,7 +3304,7 @@
                 "id": 3,
                 "subCategory": "RP.AM -3 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4259,14 +3323,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4275,7 +3331,7 @@
                 "id": 4,
                 "subCategory": "RP.AM -4 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4294,14 +3350,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4310,7 +3358,7 @@
                 "id": 5,
                 "subCategory": "RP.AM -5 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4329,14 +3377,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
@@ -4345,7 +3385,7 @@
                 "id": 6,
                 "subCategory": "RP.AM -6 ",
                 "description": "Lorem Lorem Lorem",
-               "data": [
+                "data": [
                   {
                     "id": 1,
                     "description": "Physical devices and systems within the organization are inventoried"
@@ -4364,14 +3404,6 @@
                   },
                   {
                     "id": 5,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 6,
-                    "description": "Physical devices and systems within the organization are inventoried"
-                  },
-                  {
-                    "id": 7,
                     "description": "Physical devices and systems within the organization are inventoried"
                   }
                 ]
