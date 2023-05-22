@@ -20,7 +20,7 @@
         "domainName": "Identify",
         "categoryIdentifier": "AM",
         "categoryName": "Asset Management AM",
-        "subCategoryIdentifier": "ID.AM-1",
+        "subCategoryIdentifier": "ID.AM-2",
         "subCategoryDescription": "Physical devices and systems within the organization are inventoried"
       },
       {
@@ -29,7 +29,7 @@
         "domainName": "Identify",
         "categoryIdentifier": "AM",
         "categoryName": "Asset Management AM",
-        "subCategoryIdentifier": "ID.AM-1",
+        "subCategoryIdentifier": "ID.AM-3",
         "subCategoryDescription": "Physical devices and systems within the organization are inventoried"
       },
       {
