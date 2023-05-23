@@ -3,26 +3,26 @@
   "status": 200,
   "data": {
     "id": 1,
-    "baseFrameworkName": "NIST",
-    "targetFrameworkName": "ISO",
+    "baseFrameworksubcategoryIdentifier": "NIST",
+    "targetFrameworksubcategoryIdentifier": "ISO",
     "rowData": [
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subCategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -30,20 +30,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -51,20 +51,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -72,20 +72,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -93,20 +93,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -114,20 +114,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -135,20 +135,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -156,20 +156,20 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
@@ -177,24 +177,24 @@
       {
         "domain": {
           "id": 1,
-          "name": "ID"
+          "domainIdentifier": "ID"
         },
-        "categoryId": {
+        "category": {
           "id": 1,
-          "name": "AM"
+          "categoryIdentifier": "AM"
         },
-        "subCategoryId": {
+        "subcategory": {
           "id": 1,
-          "name": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-1"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
           {
-            "SubCategoryId": "A.8.1.1",
+            "subCategoryIdentifier": "A.8.1.1",
             "description": "Physical devices and systems within the organization are inventoried"
           },
           {
-            "SubCategoryId": "A.8.1.2",
+            "Subcategory": "A.8.1.2",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]

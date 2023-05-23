@@ -8,7 +8,7 @@
     "scoringLogicDetail": [
       {
         "id": 1,
-        "functions": {
+        "domain": {
           "id": 1,
           "name": "Identify"
         },
@@ -16,17 +16,17 @@
           "id": 1,
           "name": "Asset management"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "ID.AM - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 2,
-        "functions": {
+        "domain": {
           "id": 1,
           "name": "Identify"
         },
@@ -34,17 +34,17 @@
           "id": 1,
           "name": "Asset management"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "ID.AM - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 3,
-        "functions": {
+        "domain": {
           "id": 1,
           "name": "Identify"
         },
@@ -52,17 +52,17 @@
           "id": 1,
           "name": "Asset management"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "ID.AM - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 3
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 3
       },
       {
         "id": 4,
-        "functions": {
+        "domain": {
           "id": 1,
           "name": "Identify"
         },
@@ -70,17 +70,17 @@
           "id": 2,
           "name": "Business Environment"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "ID.BE - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 4
       },
       {
         "id": 5,
-        "functions": {
+        "domain": {
           "id": 1,
           "name": "Identify"
         },
@@ -88,17 +88,17 @@
           "id": 2,
           "name": "Business Environment"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "ID.BE - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 6,
-        "functions": {
+        "domain": {
           "id": 1,
           "name": "Identify"
         },
@@ -106,17 +106,17 @@
           "id": 2,
           "name": "Business Environment"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "ID.BE - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 7,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -124,17 +124,17 @@
           "id": 3,
           "name": "Awareness And Training"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "PT.AT - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 8,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -142,17 +142,17 @@
           "id": 3,
           "name": "Awareness And Training"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "PT.AT  - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 9,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -160,17 +160,17 @@
           "id": 3,
           "name": "Awareness And Training"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "PT.AT - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 3
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 3
       },
       {
         "id": 10,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -178,17 +178,17 @@
           "id": 4,
           "name": "Data Security"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "PT.DS - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 4
       },
       {
         "id": 11,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -196,17 +196,17 @@
           "id": 4,
           "name": "Data Security"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "PT.DS - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 12,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -214,17 +214,17 @@
           "id": 4,
           "name": "Data Security"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "PT.DS - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 13,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -232,17 +232,17 @@
           "id": 5,
           "name": "Data Privacy"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "PT.DP - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 4
       },
       {
         "id": 14,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -250,17 +250,17 @@
           "id": 5,
           "name": "Data Privacy"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "PT.DP - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 15,
-        "functions": {
+        "domain": {
           "id": 2,
           "name": "Protect"
         },
@@ -268,17 +268,17 @@
           "id": 5,
           "name": "Data Privacy"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "PT.DP - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 16,
-        "functions": {
+        "domain": {
           "id": 3,
           "name": "Detect"
         },
@@ -286,17 +286,17 @@
           "id": 1,
           "name": "Asset management"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "DT.AM - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 17,
-        "functions": {
+        "domain": {
           "id": 3,
           "name": "Detect"
         },
@@ -304,17 +304,17 @@
           "id": 1,
           "name": "Asset management"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "DT.AM - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 18,
-        "functions": {
+        "domain": {
           "id": 3,
           "name": "Detect"
         },
@@ -322,17 +322,17 @@
           "id": 1,
           "name": "Asset management"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "DT.AM - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 3
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 3
       },
       {
         "id": 19,
-        "functions": {
+        "domain": {
           "id": 3,
           "name": "Detect"
         },
@@ -340,17 +340,17 @@
           "id": 2,
           "name": "Business Environment"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "DT.BE - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 4
       },
       {
         "id": 20,
-        "functions": {
+        "domain": {
           "id": 3,
           "name": "Detect"
         },
@@ -358,17 +358,17 @@
           "id": 2,
           "name": "Business Environment"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "DT.BE - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 21,
-        "functions": {
+        "domain": {
           "id": 3,
           "name": "Detect"
         },
@@ -376,17 +376,17 @@
           "id": 2,
           "name": "Business Environment"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "DT.BE - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 22,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -394,17 +394,17 @@
           "id": 3,
           "name": "Awareness And Training"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "RP.AT - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 23,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -412,17 +412,17 @@
           "id": 3,
           "name": "Awareness And Training"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "RP.AT  - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 24,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -430,17 +430,17 @@
           "id": 3,
           "name": "Awareness And Training"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "RP.AT - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 3
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 3
       },
       {
         "id": 25,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -448,17 +448,17 @@
           "id": 4,
           "name": "Data Security"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "RP.DS - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 4
       },
       {
         "id": 26,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -466,17 +466,17 @@
           "id": 4,
           "name": "Data Security"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "RP.DS - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 27,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -484,17 +484,17 @@
           "id": 4,
           "name": "Data Security"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "RP.DS - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       },
       {
         "id": 28,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -502,17 +502,17 @@
           "id": 5,
           "name": "Data Privacy"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 1,
           "name": "RP.DP - 1"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 4
       },
       {
         "id": 29,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -520,17 +520,17 @@
           "id": 5,
           "name": "Data Privacy"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 2,
           "name": "RP.DP - 2"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 2
       },
       {
         "id": 30,
-        "functions": {
+        "domain": {
           "id": 4,
           "name": "Response"
         },
@@ -538,13 +538,13 @@
           "id": 5,
           "name": "Data Privacy"
         },
-        "sub_category": {
+        "subCategory": {
           "id": 3,
           "name": "RP.DP - 3"
         },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
+        "weightageWithinFunction": "10%",
+        "weightagePerFunction": "20%",
+        "subCategoryScore": 1
       }
     ]
   }
