@@ -14,6 +14,7 @@ const FRAMEWORk = require('../data/framework.json');
 const FRAMEWORk_DETAIL = require('../data/framework_detail.json');
 const SURVEY_TEMPLATES = require('../data/survey_template.json');
 const SURVEY_TEMPLATES_DEATIL = require('../data/survey_template_detail.json');
+const INTERVIEW_TEMPLATES_DEATIL = require('../data/interview_detail.json');
 
 const MATURITY_MODEL = require('../data/maturity_model.json');
 const MATURITY_MODEL_DEATIL = require('../data/maturity_detail.json');
@@ -72,6 +73,10 @@ router.get('/surveyTemplates', function(req, res, next) {
 
 router.get('/surveyTemplates/:id', function(req, res, next) {
   res.send(SURVEY_TEMPLATES_DEATIL);
+});
+
+router.get('/interviewTemplates/:id', function(req, res, next) {
+  res.send(INTERVIEW_TEMPLATES_DEATIL);
 });
 
 router.get('/maturityModel', function(req, res, next) {

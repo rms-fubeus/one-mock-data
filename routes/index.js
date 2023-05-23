@@ -17,6 +17,7 @@ router.get("/", function (req, res, next) {
         framework_detail: "/api/frameworks/:id",
         survey_templates: "/api/surveyTemplates",
         survey_templates_detail: "/api/surveyTemplates/:id",
+        interview_templates_detail: "/api/interviewTemplates/:id",
         maturity_model: "/api/maturityModel",
         maturity_model_detail: "/api/maturityModel/:id",
         scoring_logic: "/api/scoringLogic",
