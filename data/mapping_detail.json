@@ -194,7 +194,7 @@
             "description": "Physical devices and systems within the organization are inventoried"
           },
           {
-            "Subcategory": "A.8.1.2",
+            "subCategoryIdentifier": "A.8.1.2",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
