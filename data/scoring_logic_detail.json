@@ -545,64 +545,6 @@
         "weightage_within_function": "10%",
         "weightage_per_function": "20%",
         "sub_category_scory": 1
-      },
-
-
-
-
-      {
-        "id": 31,
-        "functions": {
-          "id": 2,
-          "name": "Identify"
-        },
-        "category": {
-          "id": 5,
-          "name": "Data Privacy"
-        },
-        "sub_category": {
-          "id": 1,
-          "name": "PT.DP - 1"
-        },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 4
-      },
-      {
-        "id": 32,
-        "functions": {
-          "id": 2,
-          "name": "Identify"
-        },
-        "category": {
-          "id": 5,
-          "name": "Data Privacy"
-        },
-        "sub_category": {
-          "id": 2,
-          "name": "PT.DP - 2"
-        },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 2
-      },
-      {
-        "id": 33,
-        "functions": {
-          "id": 2,
-          "name": "Identify"
-        },
-        "category": {
-          "id": 5,
-          "name": "Data Privacy"
-        },
-        "sub_category": {
-          "id": 3,
-          "name": "PT.DP - 3"
-        },
-        "weightage_within_function": "10%",
-        "weightage_per_function": "20%",
-        "sub_category_scory": 1
       }
     ]
   }
