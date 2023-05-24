@@ -9,11 +9,11 @@
       {
         "domain": {
           "id": 1,
-          "domainIdentifier": "ID"
+          "domainIdentifier": "ID1"
         },
         "category": {
           "id": 1,
-          "categoryIdentifier": "AM"
+          "categoryIdentifier": "AM1"
         },
         "subCategory": {
           "id": 1,
@@ -30,15 +30,15 @@
       {
         "domain": {
           "id": 1,
-          "domainIdentifier": "ID"
+          "domainIdentifier": "ID2"
         },
         "category": {
           "id": 1,
-          "categoryIdentifier": "AM"
+          "categoryIdentifier": "AM2"
         },
         "subcategory": {
           "id": 1,
-          "subCategoryIdentifier": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-2"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
@@ -51,15 +51,15 @@
       {
         "domain": {
           "id": 1,
-          "domainIdentifier": "ID"
+          "domainIdentifier": "ID3"
         },
         "category": {
           "id": 1,
-          "categoryIdentifier": "AM"
+          "categoryIdentifier": "AM3"
         },
         "subcategory": {
           "id": 1,
-          "subCategoryIdentifier": "ID.AM-1"
+          "subCategoryIdentifier": "ID.AM-3"
         },
         "description": "Physical devices and systems within the organization are",
         "targetFramework": [
