@@ -36,7 +36,7 @@
           "id": 1,
           "categoryIdentifier": "AM2"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-2"
         },
@@ -57,7 +57,7 @@
           "id": 1,
           "categoryIdentifier": "AM3"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-3"
         },
@@ -78,7 +78,7 @@
           "id": 1,
           "categoryIdentifier": "AM"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-1"
         },
@@ -99,7 +99,7 @@
           "id": 1,
           "categoryIdentifier": "AM"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-1"
         },
@@ -120,7 +120,7 @@
           "id": 1,
           "categoryIdentifier": "AM"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-1"
         },
@@ -141,7 +141,7 @@
           "id": 1,
           "categoryIdentifier": "AM"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-1"
         },
@@ -162,7 +162,7 @@
           "id": 1,
           "categoryIdentifier": "AM"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-1"
         },
@@ -183,7 +183,7 @@
           "id": 1,
           "categoryIdentifier": "AM"
         },
-        "subcategory": {
+        "subCategory": {
           "id": 1,
           "subCategoryIdentifier": "ID.AM-1"
         },
@@ -194,7 +194,7 @@
             "description": "Physical devices and systems within the organization are inventoried"
           },
           {
-            "Subcategory": "A.8.1.2",
+            "subCategoryIdentifier": "A.8.1.2",
             "description": "Physical devices and systems within the organization are inventoried"
           }
         ]
