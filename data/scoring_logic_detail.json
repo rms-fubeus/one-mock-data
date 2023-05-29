@@ -50,7 +50,7 @@
         },
         "category": {
           "id": 1,
-          "name": "Asset management"
+          "name": "Asset"
         },
         "subCategory": {
           "id": 3,
@@ -104,7 +104,7 @@
         },
         "category": {
           "id": 2,
-          "name": "Business Environment"
+          "name": "Asset"
         },
         "subCategory": {
           "id": 3,
