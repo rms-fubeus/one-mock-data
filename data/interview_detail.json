@@ -1,0 +1,361 @@
+{
+  "status": 200,
+  "message": "",
+  "data": {
+    "id": 1,
+    "frameworkName": "Nist Framework",
+    "name": "Sample Template",
+    "domain": [
+      {
+        "id": 1,
+        "domainName": "Identify",
+        "category": [
+          {
+            "id": 1,
+            "categoryName": "Category 1",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 2,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 3,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "subCategoryIdentifier": "ID.AM-2",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 2,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 3,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "categoryName": "Category 2",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 2,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 3,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "subCategoryIdentifier": "ID.AM-2",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 2,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  },
+                  {
+                    "id": 3,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "domainName": "Protect",
+        "category": [
+          {
+            "id": 1,
+            "categoryName": "Category 1",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "domainName": "Detect",
+        "category": [
+          {
+            "id": 1,
+            "categoryName": "Category 1",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "categoryName": "Category 2",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "subCategoryIdentifier": "ID.AM-2",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "domainName": "Response",
+        "category": [
+          {
+            "id": 1,
+            "categoryName": "Category 1",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "subCategoryIdentifier": "ID.AM-2",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "categoryName": "Category 2",
+            "subCategory": [
+              {
+                "id": 1,
+                "subCategoryIdentifier": "ID.AM-1",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "subCategoryIdentifier": "ID.AM-2",
+                "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                "questions": [
+                  {
+                    "id": 1,
+                    "description": "How What software your company is banking upon for this year ? ",
+                    "type": {
+                      "id": 1,
+                      "name": "TextBox"
+                    },
+                    "options": [],
+                    "required": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

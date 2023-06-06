@@ -76,7 +76,7 @@
             },
             "weightage_within_function": "10%",
             "weightage_per_function": "20%",
-            "sub_category_scory": 2
+            "sub_category_scory": 3
           },
           {
             "id": 8,
@@ -94,7 +94,7 @@
             },
             "weightage_within_function": "10%",
             "weightage_per_function": "20%",
-            "sub_category_scory": 1
+            "sub_category_scory": 4
           },
           {
             "id": 9,
@@ -112,7 +112,7 @@
             },
             "weightage_within_function": "10%",
             "weightage_per_function": "20%",
-            "sub_category_scory": 3
+            "sub_category_scory": 1
           },
           {
             "id": 10,
@@ -130,7 +130,7 @@
             },
             "weightage_within_function": "10%",
             "weightage_per_function": "20%",
-            "sub_category_scory": 4
+            "sub_category_scory": 3
           },
           {
             "id": 11,
@@ -148,7 +148,7 @@
             },
             "weightage_within_function": "10%",
             "weightage_per_function": "20%",
-            "sub_category_scory": 2
+            "sub_category_scory": 4
           },
           {
             "id": 12,
