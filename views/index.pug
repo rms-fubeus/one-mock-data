@@ -2,15 +2,15 @@ extends layout
 
 block content
   h1= title
+  
   h1
-    a(href=`${url.users}`) USERS
+    a(href=`${url.maturity}`) MATURIY
   h1
-    a(href=`${url.roles}`) ROLES
+    a(href=`${url.readiness}`) READINESS
   h1
-    a(href=`${url.roles_detail}`) ROLE DETAIL
+    a(href=`${url.security}`) SECURITY
   h1
     a(href=`${url.clients}`) CLIENTS
-
   h1
     a(href=`${url.client_detail}`) CLIENT DETAIL
   h1
@@ -42,4 +42,11 @@ block content
     a(href=`${url.mapping}`) MAPPING 
   h1
     a(href=`${url.mapping_detail}`) MAPPING DETAIL
+
+  h1
+    a(href=`${url.users}`) USERS
+  h1
+    a(href=`${url.roles}`) ROLES
+  h1
+    a(href=`${url.roles_detail}`) ROLE DETAIL
   

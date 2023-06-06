@@ -7,15 +7,15 @@
       "clientLogo": "https://loremflickr.com/640/480/business",
       "clientName": "Acme Corporation",
       "createdDate": "12/22/2020",
-      "city": "banglore",
-      "country": "india",
+      "city": "Banglore",
+      "country": "India",
       "clientPoc": "Amanda Haydenson",
       "msaStartDate": "12/22/2222",
       "msaEndDate": "4/22/2222",
-      "sector": "construction",
-      "industry": "software",
-      "servicesPoc": "john",
-      "selesPoc": "mike"
+      "sector": "Construction",
+      "industry": "Software",
+      "servicesPoc": "John",
+      "selesPoc": "Mike"
     },
     "teamInformation": [
       {
@@ -246,7 +246,7 @@
       },
       {
         "id": 1,
-        "assessementName": "RISK assessement",
+        "assessementName": "Risk assessement",
         "frameWork": "NIST",
         "assessementType": "Maturity",
         "isSurvey": true,

@@ -24,6 +24,9 @@ router.get("/", function (req, res, next) {
         scoring_logic_detail: "/api/scoringLogic/:id",
         mapping: "/api/mapping",
         mapping_detail: "/api/mapping/:id",
+        maturity: "/api/maturity",
+        readiness: "/api/readiness",
+        security: "/api/security",
       },
   });
 });

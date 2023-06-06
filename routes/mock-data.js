@@ -25,6 +25,10 @@ const SCCORING_LOGIC_DEATIL = require('../data/scoring_logic_detail.json');
 const MAPPING = require('../data/mapping.json');
 const MAPPING_DEATIL = require('../data/mapping_detail.json');
 
+const MATURITY = require('../data/assessment-assess.json');
+const READINESS = require('../data/assessment-readiness.json');
+const SECURITY = require('../data/security-assess.json');
+
 
 
 router.get('/users', function(req, res, next) {
@@ -101,6 +105,18 @@ router.get('/mapping', function(req, res, next) {
 
 router.get('/mapping/:id', function(req, res, next) {
   res.send(MAPPING_DEATIL);
+});
+
+router.get('/maturity', function(req, res, next) {
+  res.send(MATURITY);
+});
+
+router.get('/readiness', function(req, res, next) {
+  res.send(READINESS);
+});
+
+router.get('/security', function(req, res, next) {
+  res.send(SECURITY);
 });
 
 
