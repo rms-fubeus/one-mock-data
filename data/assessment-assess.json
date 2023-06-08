@@ -68,6 +68,16 @@
                       "id": 7,
                       "selected": false,
                       "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                    },
+                    {
+                      "id": 8,
+                      "selected": false,
+                      "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                    },
+                    {
+                      "id": 9,
+                      "selected": false,
+                      "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
                     }
                   ],
                   "questions": [
