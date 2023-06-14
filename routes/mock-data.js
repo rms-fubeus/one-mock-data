@@ -123,7 +123,7 @@ router.get('/security', function(req, res, next) {
   res.send(SECURITY);
 });
 
-router.get('/initiavites', function(req, res, next) {
+router.get('/initiatives', function(req, res, next) {
   res.send(INITIATIVES);
 });
 router.get('/recomendation', function(req, res, next) {
