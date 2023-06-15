@@ -1,0 +1,59 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+        "assessmentName": "Half Year Assessment",
+        "assessmentType": {
+            "id": 1,
+            "name": "Maturity Assessment"
+        },
+        "framework":{
+            "id":1,
+            "name":"NIST"
+        },
+        "tentativeStartDate":"2023-04-10T19:13:34.513Z",
+        "tentativeEndDate":"2023-04-10T19:13:34.513Z",
+        "scoringLogic":{
+            "id":1,
+            "name":"NIST"
+        },
+        "maturityModel":{
+            "id":1,
+            "name":"NIST"
+        },
+        "surveyTemplates":{
+            "id":1,
+            "templateName":"ISO ORG",
+            "frameworkName":"ISO",
+            "questionCount":12,
+            "createdDate":"2023-04-10T19:13:34.513Z"
+            
+        },
+        "interviewTemplates":{
+            "id":1,
+            "templateName":"NIST ORG",
+            "frameworkName":"NIST",
+            "questionCount":12,
+            "createdDate":"2023-04-10T19:13:34.513Z"
+            
+        },
+        "milesStone":[
+            {
+                "id":1,
+                "mileStoneName":"Tentative End Date",
+                "deadLine":"2023-04-10T19:13:34.513Z"
+            },
+            {
+                "id":2,
+                "mileStoneName":"Schedule & Complete Interviews",
+                "deadLine":"2023-04-10T19:13:34.513Z"
+            }
+        ],
+        "status":{
+            "id":1,
+            "name":"Ongoing"
+        },
+        "completedDate":"2023-04-10T19:13:34.513Z"
+        
+    }
+}
