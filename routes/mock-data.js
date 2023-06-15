@@ -30,6 +30,11 @@ const READINESS = require('../data/assessment-readiness.json');
 const SECURITY = require('../data/security-assess.json');
 
 
+const INITIATIVES = require('../data/analyze_initiatives.json');
+const RECOMENDATION = require('../data/analyze_recomendation.json');
+const GAPS = require('../data/analyze_gaps.json');
+
+
 
 router.get('/users', function(req, res, next) {
   res.send(USERS);
@@ -117,6 +122,17 @@ router.get('/readiness', function(req, res, next) {
 
 router.get('/security', function(req, res, next) {
   res.send(SECURITY);
+});
+
+router.get('/initiatives', function(req, res, next) {
+  res.send(INITIATIVES);
+});
+router.get('/recomendation', function(req, res, next) {
+  res.send(RECOMENDATION);
+});
+
+router.get('/gaps', function(req, res, next) {
+  res.send(GAPS);
 });
 
 
