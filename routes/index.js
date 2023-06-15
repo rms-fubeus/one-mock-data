@@ -30,6 +30,7 @@ router.get("/", function (req, res, next) {
         initiatives: "/api/initiatives",
         recomendation: "/api/recomendation",
         gaps: "/api/gaps",
+        assessmentInfo: "/api/assessmentInfo",
       },
   });
 });
