@@ -2,6 +2,10 @@
     "status": 200,
     "message": "",
     "data": {
+        "clientName": "ACME Corporation",
+        "clientImage": "https://loremflickr.com/640/480/business",
+        "assessmentName": "Half Yearly Assessment",
+        "assessmentType": "Maturity Guided Assessment",
         "domain": [
             {
                 "id": 1,
