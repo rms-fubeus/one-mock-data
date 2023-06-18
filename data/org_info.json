@@ -1,0 +1,17 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+        "id":1,
+        "name":"Half Yearly Assessment",
+        "operatingIndustry":"CyberSecurity",
+        "totalHeadcount":5,
+        "totalRevenue":5,
+        "itDepartmentHeadcount":5,
+        "itDepartmentSpend":10,
+        "securityHeadCount":5,
+        "sccuritySpend":10,
+        "sector":"CyberSecurity"
+
+    }
+}

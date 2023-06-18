@@ -32,6 +32,7 @@ router.get("/", function (req, res, next) {
         gaps: "/api/gaps",
         gapsById: "/api/gapsById",
         assessmentInfo: "/api/assessmentInfo",
+        orgInfo: "/api/orgInfo",
       },
   });
 });
