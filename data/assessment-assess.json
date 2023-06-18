@@ -59,6 +59,7 @@
                       "selected": false,
                       "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
                     }
+                    
                   ],
                   "questions": [
                     {
@@ -74,14 +75,33 @@
                       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
                       "type": {
                         "id": 1,
-                        "name": "Multichoice"
+                        "name": "Textbox"
                       }
+                    }
+                  ],
+                  "surveyQuestions": [
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Textbox"
+                      }
+                    },
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Multichoice"
+                      },
+                      "options":["one","two","three"]
                     }
                   ],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
-                  "id": 1,
+                  "id": 2,
                   "subcategoryName": "Sub-category 2",
                   "isActive": true,
                   "rating": 2.5,
@@ -111,6 +131,25 @@
                       "id": 5,
                       "selected": false,
                       "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                    },{
+                      "id": 6,
+                      "selected": false,
+                      "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                    },
+                    {
+                      "id": 7,
+                      "selected": false,
+                      "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                    },
+                    {
+                      "id": 8,
+                      "selected": false,
+                      "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                    },
+                    {
+                      "id": 9,
+                      "selected": false,
+                      "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
                     }
                   ],
                   "questions": [
@@ -129,6 +168,25 @@
                         "id": 1,
                         "name": "Textbox"
                       }
+                    }
+                  ],
+                  "surveyQuestions": [
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Textbox"
+                      }
+                    },
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Multichoice"
+                      },
+                      "options":["one","two","three"]
                     }
                   ],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -195,6 +253,7 @@
                       }
                     }
                   ],
+                  "surveyQuestions": [],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
@@ -248,6 +307,7 @@
                       }
                     }
                   ],
+                  "surveyQuestions": [],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 }
               ]

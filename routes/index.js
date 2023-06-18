@@ -27,6 +27,12 @@ router.get("/", function (req, res, next) {
         maturity: "/api/maturity",
         readiness: "/api/readiness",
         security: "/api/security",
+        initiatives: "/api/initiatives",
+        recomendation: "/api/recomendation",
+        gaps: "/api/gaps",
+        gapsById: "/api/gapsById",
+        assessmentInfo: "/api/assessmentInfo",
+        orgInfo: "/api/orgInfo",
       },
   });
 });

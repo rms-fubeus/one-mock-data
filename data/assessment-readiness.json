@@ -8,7 +8,7 @@
     "assessmentType": "Compliance Score",
     "currentMaturity": {
       "overallRating": 70,
-      "status": "In Progress",
+      "status": "Complete",
       "totalDomains": 8,
       "assesedDomains": 4,
       "dueDate": "2023-06-10T20:05:24.318Z",
@@ -64,14 +64,33 @@
                       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
                       "type": {
                         "id": 1,
-                        "name": "Multichoice"
+                        "name": "Textbox"
                       }
+                    }
+                  ],
+                  "surveyQuestions": [
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Textbox"
+                      }
+                    },
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Multichoice"
+                      },
+                      "options":["one","two","three"]
                     }
                   ],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
-                  "id": 1,
+                  "id": 2,
                   "subcategoryName": "Sub-category 2",
                   "isActive": true,
                   "rating": 2.5,
@@ -109,6 +128,25 @@
                         "id": 1,
                         "name": "Textbox"
                       }
+                    }
+                  ],
+                  "surveyQuestions": [
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Textbox"
+                      }
+                    },
+                    {
+                      "id": 1,
+                      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+                      "type": {
+                        "id": 1,
+                        "name": "Multichoice"
+                      },
+                      "options":["one","two","three"]
                     }
                   ],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -165,6 +203,7 @@
                       }
                     }
                   ],
+                  "surveyQuestions": [],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
@@ -208,6 +247,7 @@
                       }
                     }
                   ],
+                  "surveyQuestions": [],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 }
               ]
@@ -262,6 +302,7 @@
                       }
                     }
                   ],
+                  "surveyQuestions": [],
                   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
