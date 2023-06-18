@@ -1,7 +1,16 @@
 {
     "status": 200,
     "message": "",
+
     "data": {
+        "domain":{
+            "id":1,
+            "name":"Indetify"
+        },
+        "categoryName":{
+            "id":1,
+            "name":"Category 1"
+        },
         "subcategory": [
             {
                 "id": 1,
