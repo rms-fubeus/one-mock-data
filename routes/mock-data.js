@@ -34,6 +34,7 @@ const INITIATIVES = require('../data/analyze_initiatives.json');
 const RECOMENDATION = require('../data/analyze_recomendation.json');
 const GAPS = require('../data/analyze_gaps.json');
 const ASSESSMENTINFO = require('../data/profile_assess_info.json');
+const GAPSBYID = require('../data/analyze_gapsbyId.json');
 
 
 
@@ -140,6 +141,12 @@ router.get('/gaps', function(req, res, next) {
 router.get('/assessmentInfo', function(req, res, next) {
   res.send(ASSESSMENTINFO);
 });
+
+router.get('/gapsById', function(req, res, next) {
+  res.send(GAPSBYID);
+});
+
+
 
 
 module.exports = router;
