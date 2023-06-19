@@ -33,7 +33,7 @@ router.get("/", function (req, res, next) {
         gapsById: "/api/gapsById",
         assessmentInfo: "/api/assessmentInfo",
         orgInfo: "/api/orgInfo",
-        crownJewel: "/api/crownJewel",
+        riskAppetite: "/api/riskAppetite",
       },
   });
 });

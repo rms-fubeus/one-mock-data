@@ -36,7 +36,7 @@ const GAPS = require('../data/analyze_gaps.json');
 const ASSESSMENTINFO = require('../data/profile_assess_info.json');
 const GAPSBYID = require('../data/analyze_gapsbyId.json');
 const ORGINFO = require('../data/org_info.json');
-const CROWNJEWEL = require('../data/profile_crown_jewel.json');
+const RISKAPPETITE = require('../data/risk_appetite.json');
 
 
 
@@ -152,8 +152,8 @@ router.get('/orgInfo', function(req, res, next) {
   res.send(ORGINFO);
 });
 
-router.get('/croenJewel', function(req, res, next) {
-  res.send(ORGINFO);
+router.get('/riskAppetite', function(req, res, next) {
+  res.send(RISKAPPETITE);
 });
 
 
