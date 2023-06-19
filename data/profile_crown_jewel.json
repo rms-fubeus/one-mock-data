@@ -1,0 +1,112 @@
+{
+    "status": 200,
+    "message": "",
+    "data":{
+        "id":1,
+        "rating":"medium",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the printing and typesetting industry has",
+        "securityDetails":[
+            {
+                "id":1,
+                "name":"Cybersecurity",
+                "logo":"",
+                "stackHolderRated":[
+                    {
+                        "userName":"Rahul menon",
+                        "rating":"Low"
+                    },
+                    {
+                        "userName":"Nikhil",
+                        "rating":"High"
+                    },
+                    {
+                        "userName":"Aman",
+                        "rating":"Med-High"
+                    }
+                ],
+                "rating":"Low"
+            },
+            {
+                "id":2,
+                "name":"Product security",
+                "logo":"",
+                "stackHolderRated":[
+                    {
+                        "userName":"Rahul menon",
+                        "rating":"Low"
+                    },
+                    {
+                        "userName":"Nikhil",
+                        "rating":"High"
+                    },
+                    {
+                        "userName":"Aman",
+                        "rating":"Med-High"
+                    }
+                ],
+                "rating":"Low"
+            },
+            {
+                "id":3,
+                "name":"Physical security",
+                "logo":"",
+                "stackHolderRated":[
+                    {
+                        "userName":"Rahul menon",
+                        "rating":"Low"
+                    },
+                    {
+                        "userName":"Nikhil",
+                        "rating":"High"
+                    },
+                    {
+                        "userName":"Aman",
+                        "rating":"Med-High"
+                    }
+                ],
+                "rating":"Low"
+            },
+            {
+                "id":4,
+                "name":"Enterprise Resilience",
+                "logo":"",
+                "stackHolderRated":[
+                    {
+                        "userName":"Rahul menon",
+                        "rating":"Low"
+                    },
+                    {
+                        "userName":"Nikhil",
+                        "rating":"High"
+                    },
+                    {
+                        "userName":"Aman",
+                        "rating":"Med-High"
+                    }
+                ],
+                "rating":"Low"
+            },
+            {
+                "id":5,
+                "name":"Supply Chain security",
+                "logo":"",
+                "stackHolderRated":[
+                    {
+                        "userName":"Rahul menon",
+                        "rating":"Low"
+                    },
+                    {
+                        "userName":"Nikhil",
+                        "rating":"High"
+                    },
+                    {
+                        "userName":"Aman",
+                        "rating":"Med-High"
+                    }
+                ],
+                "rating":"Low"
+            }
+        ]
+
+    }
+}
