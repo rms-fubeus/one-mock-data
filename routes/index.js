@@ -33,6 +33,8 @@ router.get("/", function (req, res, next) {
         gapsById: "/api/gapsById",
         assessmentInfo: "/api/assessmentInfo",
         orgInfo: "/api/orgInfo",
+        surveyInfo: "/api/surveyInfo",
+        jewelInfo: "/api/crownJewels",
       },
   });
 });

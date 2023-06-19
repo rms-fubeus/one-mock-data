@@ -33,9 +33,13 @@ const SECURITY = require('../data/security-assess.json');
 const INITIATIVES = require('../data/analyze_initiatives.json');
 const RECOMENDATION = require('../data/analyze_recomendation.json');
 const GAPS = require('../data/analyze_gaps.json');
-const ASSESSMENTINFO = require('../data/profile_assess_info.json');
 const GAPSBYID = require('../data/analyze_gapsbyId.json');
+
+const ASSESSMENTINFO = require('../data/profile_assessment_information.json');
 const ORGINFO = require('../data/org_info.json');
+
+const SURVEYINFO = require('../data/profile_survey.json');
+const JEWELINFO = require('../data/profile_crown_jewel.json');
 
 
 
@@ -149,6 +153,14 @@ router.get('/gapsById', function(req, res, next) {
 
 router.get('/orgInfo', function(req, res, next) {
   res.send(ORGINFO);
+});
+
+router.get('/surveyInfo', function(req, res, next) {
+  res.send(SURVEYINFO);
+});
+
+router.get('/crownJewels', function(req, res, next) {
+  res.send(JEWELINFO);
 });
 
 

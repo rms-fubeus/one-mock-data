@@ -1,59 +1,156 @@
 {
-    "status": 200,
-    "message": "",
-    "data": {
-        "assessmentName": "Half Year Assessment",
-        "assessmentType": {
-            "id": 1,
-            "name": "Maturity Assessment"
+  "status": 200,
+  "message": "",
+  "data": {
+    "assessmentName": "Half Yearly Assessment",
+    "assessmentType": "Maturity Assessment",
+    "framework": {
+      "id": 1,
+      "name": "NIST"
+    },
+    "tentativeStartDate": "",
+    "tentativeEndDate": "",
+    "scoringLogic": {
+      "id": 1,
+      "name": "NIST"
+    },
+    "maturityModel": {
+      "id": 1,
+      "name": "NIST"
+    },
+    "surveyTemplates": {
+      "id": 1,
+      "templateName": "ISO ORG",
+      "frameworkName": "ISO",
+      "questionCount": 12,
+      "createdDate": "2023-04-10T19:13:34.513Z"
+    },
+    "interviewTemplates": {
+      "id": 1,
+      "templateName": "NIST ORG",
+      "frameworkName": "NIST",
+      "questionCount": 12,
+      "createdDate": "2023-04-10T19:13:34.513Z"
+    },
+    "milesStone": [
+      {
+        "id": 1,
+        "mileStoneName": "Tentative End Date",
+        "deadLine": "2023-04-10T19:13:34.513Z"
+      },
+      {
+        "id": 2,
+        "mileStoneName": "Schedule & Complete Interviews",
+        "deadLine": "2023-04-10T19:13:34.513Z"
+      }
+    ],
+    "status": {
+      "id": 3,
+      "name": "Completed"
+    },
+    "documentInfo": [
+      {
+        "id": 1,
+        "fileName": "Clinet Info.pdf",
+        "fileUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpghj",
+        "createdDate": "2023-06-11T03:32:55.672Z",
+        "fileType": {
+          "id": 1,
+          "name": "pdf"
         },
-        "framework":{
-            "id":1,
-            "name":"NIST"
+        "assessement": {
+          "id": 1,
+          "name": "maturity assessement"
+        }
+      },
+      {
+        "id": 2,
+        "fileName": "Clinet Info.docx",
+        "fileUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpghj",
+        "createdDate": "2023-06-11T03:32:55.672Z",
+        "fileType": {
+          "id": 2,
+          "name": "doc"
         },
-        "tentativeStartDate":"2023-04-10T19:13:34.513Z",
-        "tentativeEndDate":"2023-04-10T19:13:34.513Z",
-        "scoringLogic":{
-            "id":1,
-            "name":"NIST"
+        "assessement": {
+          "id": 1,
+          "name": "maturity assessement"
+        }
+      },
+      {
+        "id": 3,
+        "fileName": "Clinet Info.csv",
+        "fileUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpghj",
+        "createdDate": "2023-06-11T03:32:55.672Z",
+        "fileType": {
+          "id": 3,
+          "name": "excel"
         },
-        "maturityModel":{
-            "id":1,
-            "name":"NIST"
+        "assessement": {
+          "id": 1,
+          "name": "maturity assessement"
+        }
+      },
+      {
+        "id": 4,
+        "fileName": "Clinet Info.jpg",
+        "fileUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpghj",
+        "createdDate": "2023-06-11T03:32:55.672Z",
+        "fileType": {
+          "id": 4,
+          "name": "image"
         },
-        "surveyTemplates":{
-            "id":1,
-            "templateName":"ISO ORG",
-            "frameworkName":"ISO",
-            "questionCount":12,
-            "createdDate":"2023-04-10T19:13:34.513Z"
-            
+        "assessement": {
+          "id": 1,
+          "name": "maturity assessement"
+        }
+      },
+      {
+        "id": 5,
+        "fileName": "Clinet Info.pptx",
+        "fileUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpghj",
+        "createdDate": "2023-06-11T03:32:55.672Z",
+        "fileType": {
+          "id": 5,
+          "name": "ppt"
         },
-        "interviewTemplates":{
-            "id":1,
-            "templateName":"NIST ORG",
-            "frameworkName":"NIST",
-            "questionCount":12,
-            "createdDate":"2023-04-10T19:13:34.513Z"
-            
-        },
-        "milesStone":[
-            {
-                "id":1,
-                "mileStoneName":"Tentative End Date",
-                "deadLine":"2023-04-10T19:13:34.513Z"
-            },
-            {
-                "id":2,
-                "mileStoneName":"Schedule & Complete Interviews",
-                "deadLine":"2023-04-10T19:13:34.513Z"
-            }
-        ],
-        "status":{
-            "id":1,
-            "name":"Ongoing"
-        },
-        "completedDate":"2023-04-10T19:13:34.513Z"
-        
-    }
+        "assessement": {
+          "id": 1,
+          "name": "maturity assessement"
+        }
+      }
+    ],
+    "teamInformation": [
+      {
+        "id": 1,
+        "profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/200.jpg",
+        "name": "Amanda Knight",
+        "email": "amandah@acme.com",
+        "role": {
+          "id": 1,
+          "name": "reviewer"
+        }
+      },
+      {
+        "id": 2,
+        "profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/201.jpg",
+        "name": "Harmeenpreet Kaur",
+        "email": "amandah@acme.com",
+        "role": {
+          "id": 2,
+          "name": "Assessor"
+        }
+      },
+      {
+        "id": 3,
+        "profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/202.jpg",
+        "name": "sneha",
+        "email": "amandah@acme.com",
+        "role": {
+          "id": 2,
+          "name": "Assessor"
+        }
+      }
+    ]
+  }
 }
