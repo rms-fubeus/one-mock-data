@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "message": "",
+  "data": [
+    {
+      "name": "ACME",
+      "type": "App",
+      "threatVectors": "Vulnerability",
+      "confidentiatlityImpact": "medium",
+      "integrityImpact": "low",
+      "availibilityImpact": "high",
+      "overallImpact": "high"
+    },
+    {
+      "name": "ACME2",
+      "type": "App2",
+      "threatVectors": "Vulnerability",
+      "confidentiatlityImpact": "medium",
+      "integrityImpact": "medium",
+      "availibilityImpact": "medium",
+      "overallImpact": "medium"
+    },
+     {
+      "name": "ACME3",
+      "type": "App2",
+      "threatVectors": "Vulnerability",
+      "confidentiatlityImpact": "low",
+      "integrityImpact": "low",
+      "availibilityImpact": "low",
+      "overallImpact": "low"
+    }
+  ]
+}

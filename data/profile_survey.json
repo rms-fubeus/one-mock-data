@@ -1,0 +1,115 @@
+{
+  "status": 200,
+  "message": "",
+  "data": {
+    "totalSections": 2,
+    "totalQuestions": 5,
+    "surveysSent": [
+      {
+        "user": "Sam",
+        "sentDate": "2023-06-30T03:32:55.672Z",
+        "responseRecieved": true
+      },
+      {
+        "user": "Tommy",
+        "sentDate": "2023-06-25T03:32:55.672Z",
+        "responseRecieved": false
+      }
+    ],
+    "sections": [
+      {
+        "id": 1,
+        "subCategoryIdentifier": "ID.AM-1",
+        "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+        "questions": [
+          {
+            "id": 1,
+            "description": "How What software your company is banking upon for this year ? ",
+            "type": {
+              "id": 1,
+              "name": "TextBox"
+            },
+            "options": [],
+            "required": true
+          },
+          {
+            "id": 2,
+            "description": "How What software your company is banking upon for this year ? ",
+            "type": {
+              "id": 2,
+              "name": "Multichoice"
+            },
+            "options": [
+              {
+                "id": 1,
+                "name": "Good"
+              },
+              {
+                "id": 2,
+                "name": "Better"
+              },
+              {
+                "id": 3,
+                "name": "Bad"
+              },
+              {
+                "id": 4,
+                "name": "Best"
+              }
+            ],
+            "required": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "subCategoryIdentifier": "ID.AM-2",
+        "subCategoryDescription": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+        "questions": [
+          {
+            "id": 1,
+            "description": "How What software your company is banking upon for this year ? ",
+            "type": {
+              "id": 3,
+              "name": "OpinionScale"
+            },
+            "options": [
+              {
+                "min": 1,
+                "max": 10
+              }
+            ],
+            "required": true
+          },
+          {
+            "id": 2,
+            "description": "How What software your company is banking upon for this year ? ",
+            "type": {
+              "id": 2,
+              "name": "Multichoice"
+            },
+            "options": [
+              {
+                "id": 1,
+                "name": "Good"
+              },
+              {
+                "id": 2,
+                "name": "Better"
+              },
+              {
+                "id": 3,
+                "name": "Bad"
+              },
+              {
+                "id": 4,
+                "name": "Best"
+              }
+            ],
+            "required": false
+          }
+        ]
+      }
+    ]
+  }
+}
