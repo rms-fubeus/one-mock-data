@@ -34,6 +34,7 @@ router.get("/", function (req, res, next) {
         assessmentInfo: "/api/assessmentInfo",
         orgInfo: "/api/orgInfo",
         riskAppetite: "/api/riskAppetite",
+        crownJewel: "/api/crownJewel",
       },
   });
 });

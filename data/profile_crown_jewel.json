@@ -1,0 +1,26 @@
+{
+    "status": 200,
+    "message": "",
+    "data": [
+        {
+            "id": 1,
+            "name": "Name 1",
+            "app": "app",
+            "vector": "Threat Vector 1",
+            "Loss of Confidentiality": "Low",
+            "Loss of Integrity": "Medium",
+            "Loss of Availability": "High",
+            "Overall Criticality": "Medium"
+        },
+        {
+            "id": 2,
+            "name": "Name 2",
+            "app": "app",
+            "vector": "Threat Vector 2",
+            "Loss of Confidentiality": "Low",
+            "Loss of Integrity": "Medium",
+            "Loss of Availability": "High",
+            "Overall Criticality": "High"
+        }
+    ]
+}
