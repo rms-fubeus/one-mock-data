@@ -4,44 +4,79 @@
   "data": {
     "assessmentName": "Half Yearly Assessment",
     "assessmentType": "Maturity Assessment",
-    "framework": {
-      "id": 1,
-      "name": "NIST"
-    },
+    "framework": "NIST",
     "tentativeStartDate": "",
     "tentativeEndDate": "",
-    "scoringLogic": {
-      "id": 1,
-      "name": "NIST"
-    },
-    "maturityModel": {
-      "id": 1,
-      "name": "NIST"
-    },
-    "surveyTemplates": {
-      "id": 1,
-      "templateName": "ISO ORG",
-      "frameworkName": "ISO",
-      "questionCount": 12,
-      "createdDate": "2023-04-10T19:13:34.513Z"
-    },
-    "interviewTemplates": {
-      "id": 1,
-      "templateName": "NIST ORG",
-      "frameworkName": "NIST",
-      "questionCount": 12,
-      "createdDate": "2023-04-10T19:13:34.513Z"
-    },
-    "milesStone": [
+    "scoringLogic": "NIST",
+    "maturityModel": "NIST",
+    "surveyTemplates": [
       {
         "id": 1,
-        "mileStoneName": "Tentative End Date",
-        "deadLine": "2023-04-10T19:13:34.513Z"
+        "name": "NIST ORG",
+        "frameworkName": "NIST",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
       },
       {
-        "id": 2,
-        "mileStoneName": "Schedule & Complete Interviews",
-        "deadLine": "2023-04-10T19:13:34.513Z"
+        "id": 1,
+        "name": "ISO ORG",
+        "frameworkName": "NIST",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      },
+      {
+        "id": 1,
+        "name": "NIST ORG",
+        "frameworkName": "NIST",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      },
+      {
+        "id": 1,
+        "name": "COBIT ORG",
+        "frameworkName": "COBIT",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      }
+    ],
+    "interviewTemplates": [
+      {
+        "id": 1,
+        "name": "NIST ORG",
+        "frameworkName": "NIST",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      },
+      {
+        "id": 1,
+        "name": "ISO ORG",
+        "frameworkName": "NIST",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      },
+      {
+        "id": 1,
+        "name": "NIST ORG",
+        "frameworkName": "NIST",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      },
+      {
+        "id": 1,
+        "name": "COBIT ORG",
+        "frameworkName": "COBIT",
+        "questionCount": 12,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+      }
+    ],
+    "milesStones": [
+      {
+        "name": "MilesStone 1",
+        "deadline": "2023-06-30T03:32:55.672Z"
+      },
+      {
+        "name": "MilesStone 1",
+        "deadline": "2023-06-30T03:32:55.672Z"
       }
     ],
     "status": {

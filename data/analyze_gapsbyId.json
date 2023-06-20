@@ -1,0 +1,93 @@
+{
+    "status": 200,
+    "message": "",
+
+    "data": {
+        "domain":{
+            "id":1,
+            "name":"Indetify"
+        },
+        "categoryName":{
+            "id":1,
+            "name":"Category 1"
+        },
+        "subcategory": [
+            {
+                "id": 1,
+                "name": "Sub-Category-1",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+                "maturityRating": 4.2,
+                "strengths": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "gap": [
+                    {
+                        "id": 1,
+                        "identifier": "G1.ID.AM.1",
+                        "statement": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 2,
+                        "identifier": "G1.ID.AM.2",
+                        "statement": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 3,
+                        "identifier": "G1.ID.AM.3",
+                        "statement": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    }
+                ],
+                "assessComment": [
+                    {
+                        "id": 1,
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 2,
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 3,
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Sub-Category-2",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+                "maturityRating": 3.2,
+                "strengths": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "gap": [
+                    {
+                        "id": 1,
+                        "identifier": "G2.ID.AM.1",
+                        "statement": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 2,
+                        "identifier": "G2.ID.AM.2",
+                        "statement": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 3,
+                        "identifier": "G2.ID.AM.3",
+                        "statement": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    }
+                ],
+                "assessComment": [
+                    {
+                        "id": 1,
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 2,
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    },
+                    {
+                        "id": 3,
+                        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                    }
+                ]
+            }
+        ]
+    }
+}

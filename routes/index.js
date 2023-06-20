@@ -30,7 +30,11 @@ router.get("/", function (req, res, next) {
         initiatives: "/api/initiatives",
         recomendation: "/api/recomendation",
         gaps: "/api/gaps",
+        gapsById: "/api/gapsById",
         assessmentInfo: "/api/assessmentInfo",
+        orgInfo: "/api/orgInfo",
+        surveyInfo: "/api/surveyInfo",
+        jewelInfo: "/api/crownJewels",
       },
   });
 });
