@@ -71,7 +71,7 @@
             "description": "How What software your company is banking upon for this year ? ",
             "type": {
               "id": 3,
-              "name": "OpinionScale"
+              "name": "Opinion scale"
             },
             "options": [
               {
