@@ -27,7 +27,7 @@
             "description": "How What software your company is banking upon for this year ? ",
             "type": {
               "id": 1,
-              "name": "TextBox"
+              "name": "Textbox"
             },
             "options": [],
             "required": true
