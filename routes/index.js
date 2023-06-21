@@ -35,6 +35,7 @@ router.get("/", function (req, res, next) {
         orgInfo: "/api/orgInfo",
         surveyInfo: "/api/surveyInfo",
         jewelInfo: "/api/crownJewels",
+        profileMenu: "/api/profileMenu",
       },
   });
 });
