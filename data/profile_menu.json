@@ -6,6 +6,7 @@
         "clientLogo": "https://loremflickr.com/640/480/business",
         "clientName": "Acme Corporation",
         "assessmentName": "Half Yearly Assessment",
-        "assessmentType": "Maturity Assessment"
+        "assessmentType": "Maturity Assessment",
+        "clientId":1
     }
 }
