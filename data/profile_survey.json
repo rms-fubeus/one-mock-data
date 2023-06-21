@@ -4,6 +4,15 @@
   "data": {
     "totalSections": 2,
     "totalQuestions": 5,
+    "domain":{
+      "id":1,
+      "name":"Identify"
+    },
+    "category":{
+      "id":1,
+      "name":"Category 1"
+    },
+
     "surveysSent": [
       {
         "user": "Sam",

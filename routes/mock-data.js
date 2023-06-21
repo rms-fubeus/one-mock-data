@@ -42,6 +42,8 @@ const CROWNJEWEL = require('../data/profile_crown_jewel.json');
 
 const SURVEYINFO = require('../data/profile_survey.json');
 const JEWELINFO = require('../data/profile_crown_jewel.json');
+const PROFILEMENU = require('../data/profile_menu.json');
+
 
 
 
@@ -163,6 +165,10 @@ router.get('/surveyInfo', function(req, res, next) {
 
 router.get('/crownJewels', function(req, res, next) {
   res.send(JEWELINFO);
+});
+
+router.get('/profileMenu', function(req, res, next) {
+  res.send(PROFILEMENU);
 });
 
 
