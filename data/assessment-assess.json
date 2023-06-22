@@ -320,7 +320,7 @@
               "rating": 1,
               "isActive": true,
               "status": "In Progress",
-              "subcategory": [
+              "subCategory": [
                 {
                   "id": 1,
                   "subcategoryName": "Sub-category 1",
@@ -437,7 +437,7 @@
               "rating": 1,
               "isActive": true,
               "status": "In Progress",
-              "subcategory": [
+              "subCategory": [
                 {
                   "id": 1,
                   "subcategoryName": "Sub-category 1",
@@ -554,7 +554,7 @@
               "rating": 1,
               "isActive": true,
               "status": "In Progress",
-              "subcategory": [
+              "subCategory": [
                 {
                   "id": 1,
                   "subcategoryName": "Sub-category 1",
@@ -671,7 +671,7 @@
               "rating": 1,
               "isActive": true,
               "status": "In Progress",
-              "subcategory": [
+              "subCategory": [
                 {
                   "id": 1,
                   "subcategoryName": "Sub-category 1",
@@ -2094,7 +2094,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -2211,7 +2211,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -2328,7 +2328,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -2445,7 +2445,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -2686,7 +2686,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -2803,7 +2803,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -2920,7 +2920,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
@@ -3037,7 +3037,7 @@
                   "rating": 1,
                   "isActive": true,
                   "status": "In Progress",
-                  "subcategory": [
+                  "subCategory": [
                     {
                       "id": 1,
                       "subcategoryName": "Sub-category 1",
