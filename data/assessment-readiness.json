@@ -16,14 +16,14 @@
         {
           "id": 1,
           "domainName": "Identify",
-          "rating": 72,
+          "rating": 32,
           "category": [
             {
               "id": 1,
               "categoryName": "Category 1",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
-              "rating": 72,
+              "rating": 32,
               "isActive": true,
               "status": "In Progress",
               "subcategory": [
