@@ -104,6 +104,8 @@ router.get('/maturityModel', function(req, res, next) {
   res.send(MATURITY_MODEL);
 });
 
+
+
 router.get('/maturityModel/:id', function(req, res, next) {
   res.send(MATURITY_MODEL_DEATIL);
 });
@@ -126,6 +128,10 @@ router.get('/mapping/:id', function(req, res, next) {
 
 router.get('/maturity', function(req, res, next) {
   res.send(MATURITY);
+});
+
+router.get('/maturity_new', function(req, res, next) {
+  res.send(MATURITY_NEW);
 });
 
 router.get('/readiness', function(req, res, next) {
