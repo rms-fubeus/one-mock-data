@@ -28,6 +28,7 @@ const MAPPING_DEATIL = require('../data/mapping_detail.json');
 const MATURITY = require('../data/assessment-assess.json');
 const READINESS = require('../data/assessment-readiness.json');
 const SECURITY = require('../data/security-assess.json');
+const MATURITY_NEW = require('../data/maturity_new.json');
 
 
 const INITIATIVES = require('../data/analyze_initiatives.json');
