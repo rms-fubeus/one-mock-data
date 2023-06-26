@@ -25,6 +25,7 @@ router.get("/", function (req, res, next) {
         mapping: "/api/mapping",
         mapping_detail: "/api/mapping/:id",
         maturity: "/api/maturity",
+        maturity_new: "/api/maturity_new",
         readiness: "/api/readiness",
         security: "/api/security",
         initiatives: "/api/initiatives",
