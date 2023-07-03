@@ -6,28 +6,64 @@
       "name": "ACME",
       "type": "App",
       "threatVectors": "Vulnerability",
-      "confidentiatlityImpact": "medium",
-      "integrityImpact": "low",
-      "availibilityImpact": "high",
-      "overallImpact": "high"
+      "confidentiatlityImpact":{
+        "value":"1",
+        "name":"medium"
+      } ,
+      "integrityImpact": {
+        "value":"0",
+        "name":"low"
+      },
+      "availibilityImpact": {
+        "value":"2",
+        "name":"high"
+      },
+      "overallImpact": {
+        "value":"2",
+        "name":"high"
+      }
     },
     {
       "name": "ACME2",
       "type": "App2",
       "threatVectors": "Vulnerability",
-      "confidentiatlityImpact": "medium",
-      "integrityImpact": "medium",
-      "availibilityImpact": "medium",
-      "overallImpact": "medium"
+      "confidentiatlityImpact": {
+        "value":"1",
+        "name":"medium"
+      },
+      "integrityImpact": {
+        "value":"1",
+        "name":"medium"
+      },
+      "availibilityImpact": {
+        "value":"1",
+        "name":"medium"
+      },
+      "overallImpact": {
+        "value":"1",
+        "name":"medium"
+      }
     },
      {
       "name": "ACME3",
       "type": "App2",
       "threatVectors": "Vulnerability",
-      "confidentiatlityImpact": "low",
-      "integrityImpact": "low",
-      "availibilityImpact": "low",
-      "overallImpact": "low"
+      "confidentiatlityImpact": {
+        "value":"0",
+        "name":"low"
+      },
+      "integrityImpact": {
+        "value":"0",
+        "name":"low"
+      },
+      "availibilityImpact": {
+        "value":"0",
+        "name":"low"
+      },
+      "overallImpact": {
+        "value":"0",
+        "name":"low"
+      }
     }
   ]
 }
