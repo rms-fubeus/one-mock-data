@@ -158,6 +158,10 @@ router.get('/assessmentInfo', function(req, res, next) {
   res.send(ASSESSMENTINFO);
 });
 
+router.get('/riskAppetite', function(req, res, next) {
+  res.send(RISKAPPETITE);
+});
+
 router.get('/gapsById', function(req, res, next) {
   res.send(GAPSBYID);
 });
