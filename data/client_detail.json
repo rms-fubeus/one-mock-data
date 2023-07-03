@@ -5,10 +5,11 @@
     "id": 1,
     "clientInfo": {
       "id": 1,
+      "version":1,
       "clientLogo": "https://loremflickr.com/640/480/business",
       "clientName": "Acme Corporation",
       "createdDate": "12/22/2020",
-      "city": "Banglore",
+      "city": "Bangalore",
       "country": "India",
       "clientPoc": "Amanda Haydenson",
       "msaStartDate": "2023-06-11T03:32:55.672Z",
@@ -114,7 +115,7 @@
         },
         "assessement": {
           "id": 1,
-          "name": "maturity assessement"
+          "name": "maturity assessment"
         }
       },
       {
@@ -128,7 +129,7 @@
         },
         "assessement": {
           "id": 1,
-          "name": "maturity assessement"
+          "name": "maturity assessment"
         }
       },
       {
@@ -142,7 +143,7 @@
         },
         "assessement": {
           "id": 1,
-          "name": "maturity assessement"
+          "name": "maturity assessment"
         }
       },
       {
@@ -156,7 +157,7 @@
         },
         "assessement": {
           "id": 1,
-          "name": "maturity assessement"
+          "name": "maturity assessment"
         }
       },
       {
@@ -170,14 +171,14 @@
         },
         "assessement": {
           "id": 1,
-          "name": "maturity assessement"
+          "name": "maturity assessment"
         }
       }
     ],
     "assessmentInfo": [
       {
         "id": 1,
-        "assessementName": "Risk assessement",
+        "assessementName": "Risk assessment",
         "frameWork": "NIST",
         "assessementType": "Maturity",
         "isSurvey": true,
@@ -212,7 +213,7 @@
       },
       {
         "id": 1,
-        "assessementName": "Maturity assessement",
+        "assessementName": "Maturity assessment",
         "frameWork": "NIST",
         "assessementType": "Maturity",
         "isSurvey": true,
@@ -247,7 +248,7 @@
       },
       {
         "id": 1,
-        "assessementName": "Risk assessement",
+        "assessementName": "Risk assessment",
         "frameWork": "NIST",
         "assessementType": "Maturity",
         "isSurvey": true,
@@ -282,7 +283,7 @@
       },
       {
         "id": 1,
-        "assessementName": "SSA assessement",
+        "assessementName": "SSA assessment",
         "frameWork": "NIST",
         "assessementType": "Maturity",
         "isSurvey": true,
@@ -317,7 +318,7 @@
       },
       {
         "id": 1,
-        "assessementName": "Risk assessement",
+        "assessementName": "Risk assessment",
         "frameWork": "NIST",
         "assessementType": "Maturity",
         "isSurvey": true,
