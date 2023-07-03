@@ -37,6 +37,7 @@ router.get("/", function (req, res, next) {
         surveyInfo: "/api/surveyInfo",
         jewelInfo: "/api/crownJewels",
         profileMenu: "/api/profileMenu",
+        riskappetite: "/api/riskAppetite",
       },
   });
 });
