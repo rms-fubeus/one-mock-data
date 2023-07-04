@@ -4,11 +4,20 @@
   "data": {
     "assessmentName": "Half Yearly Assessment",
     "assessmentType": "Maturity Assessment",
-    "framework": "NIST",
+    "framework": {
+      "id":54,
+      "name":"COBIT"
+    },
     "tentativeStartDate": "",
     "tentativeEndDate": "",
-    "scoringLogic": "NIST",
-    "maturityModel": "NIST",
+    "scoringLogic": {
+      "id":11,
+      "name":"Final9"
+    },
+    "maturityModel": {
+      "id":1,
+      "name":"TEST1"
+    },
     "surveyTemplates": [
       {
         "id": 1,
