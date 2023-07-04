@@ -195,6 +195,38 @@
           "name": "Assessor"
         }
       }
-    ]
+    ],
+    "timelineInfo": [
+      {
+          "date": "2023-06-30 09:45:06",
+          "activity": [
+              {
+                  "description": "Maturity Assessment End ",
+                  "id": 78,
+                  "title": "MilesStone"
+              }
+          ]
+      },
+      {
+        "date": "2023-06-22 09:45:06",
+        "activity": [
+            {
+                "description": "Schedule & Complete Interviews",
+                "id": 78,
+                "title": "MilesStone"
+            }
+        ]
+    }, {
+      "date": "2023-06-01 09:45:06",
+      "activity": [
+          {
+              "description": "Maturity Assessment Created by Johan Zarco",
+              "id": 78,
+              "title": "12:30"
+          }
+      ]
   }
+  ]
+  }
+
 }
