@@ -167,7 +167,7 @@
     "teamInformation": [
       {
         "id": 1,
-        "profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/200.jpg",
+        "imageUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/200.jpg",
         "name": "Amanda Knight",
         "email": "amandah@acme.com",
         "role": {
@@ -177,7 +177,7 @@
       },
       {
         "id": 2,
-        "profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/201.jpg",
+        "imageUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/201.jpg",
         "name": "Harmeenpreet Kaur",
         "email": "amandah@acme.com",
         "role": {
@@ -187,7 +187,7 @@
       },
       {
         "id": 3,
-        "profileImage": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/202.jpg",
+        "imageUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/202.jpg",
         "name": "sneha",
         "email": "amandah@acme.com",
         "role": {
