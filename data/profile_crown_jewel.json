@@ -3,6 +3,10 @@
   "message": "",
   "data": [
     {
+      "id":1,
+      "version":1,
+      "assessmentId":1,
+      "assessmentVersion":1,
       "name": "ACME",
       "type": "App",
       "threatVectors": "Vulnerability",
@@ -24,6 +28,10 @@
       }
     },
     {
+      "id":2,
+      "version":2,
+      "assessmentId":1,
+      "assessmentVersion":1,
       "name": "ACME2",
       "type": "App2",
       "threatVectors": "Vulnerability",
@@ -45,6 +53,10 @@
       }
     },
      {
+      "id":3,
+      "version":3,
+      "assessmentId":1,
+      "assessmentVersion":1,
       "name": "ACME3",
       "type": "App2",
       "threatVectors": "Vulnerability",
