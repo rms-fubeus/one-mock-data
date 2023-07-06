@@ -25,7 +25,10 @@
       "overallImpact": {
         "value":2,
         "name":"high"
-      }
+      },
+      "confidentiatlityComment":"Lorem",
+      "integrityImpactComment":"Lorem",
+      "availibilityComment":"Lorem"
     },
     {
       "id":2,
@@ -50,7 +53,10 @@
       "overallImpact": {
         "value":1,
         "name":"medium"
-      }
+      },
+      "confidentiatlityComment":"Lorem",
+      "integrityImpactComment":"Lorem",
+      "availibilityComment":"Lorem"
     },
      {
       "id":3,
@@ -75,7 +81,10 @@
       "overallImpact": {
         "value":0,
         "name":"low"
-      }
+      },
+      "confidentiatlityComment":"Lorem",
+      "integrityImpactComment":"Lorem",
+      "availibilityComment":"Lorem"
     }
   ]
 }
