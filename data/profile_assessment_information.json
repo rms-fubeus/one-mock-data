@@ -5,8 +5,8 @@
     "assessmentName": "Half Yearly Assessment",
     "assessmentType": "Maturity Assessment",
     "framework": "NIST",
-    "tentativeStartDate": "",
-    "tentativeEndDate": "",
+    "tentativeStartDate": "7/6/2023",
+    "tentativeEndDate": "7/12/2023",
     "scoringLogic": "NIST",
     "maturityModel": "NIST",
     "surveyTemplates": [
