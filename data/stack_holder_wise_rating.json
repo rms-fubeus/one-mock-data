@@ -16,6 +16,7 @@
                         {
                             "id":1,
                             "securityName":"CyberSecurity",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -36,6 +37,7 @@
                         {
                             "id":2,
                             "securityName":"Product Security",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -56,6 +58,7 @@
                         {
                             "id":3,
                             "securityName":"Physical Security",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -76,6 +79,7 @@
                         {
                             "id":4,
                             "securityName":"Enterprise Resilience",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -96,6 +100,7 @@
                         {
                             "id":5,
                             "securityName":"Supply Chain Secuirty",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -123,6 +128,7 @@
                         {
                             "id":1,
                             "securityName":"CyberSecurity",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -143,6 +149,7 @@
                         {
                             "id":2,
                             "securityName":"Product Security",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -163,6 +170,7 @@
                         {
                             "id":3,
                             "securityName":"Physical Security",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -183,6 +191,7 @@
                         {
                             "id":4,
                             "securityName":"Enterprise Resilience",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -203,6 +212,7 @@
                         {
                             "id":5,
                             "securityName":"Supply Chain Secuirty",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -230,6 +240,7 @@
                         {
                             "id":1,
                             "securityName":"CyberSecurity",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -250,6 +261,7 @@
                         {
                             "id":2,
                             "securityName":"Product Security",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -270,6 +282,7 @@
                         {
                             "id":3,
                             "securityName":"Physical Security",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -290,6 +303,7 @@
                         {
                             "id":4,
                             "securityName":"Enterprise Resilience",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
@@ -310,6 +324,7 @@
                         {
                             "id":5,
                             "securityName":"Supply Chain Secuirty",
+                            "isActive":true,
                             "rating":{
                                 "value":2,
                                 "name":"medium"
