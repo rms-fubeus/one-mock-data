@@ -38,6 +38,7 @@ router.get("/", function (req, res, next) {
         jewelInfo: "/api/crownJewels",
         profileMenu: "/api/profileMenu",
         riskAppetite: "/api/riskAppetite",
+        stackHolderWiseRating: "/api/stackHolderWiseRating",
       },
   });
 });
