@@ -45,7 +45,7 @@ const SURVEYINFO = require('../data/profile_survey.json');
 const JEWELINFO = require('../data/profile_crown_jewel.json');
 const PROFILEMENU = require('../data/profile_menu.json');
 const STACKHOLDERWISERATING = require('../data/stack_holder_wise_rating.json');
-
+const ADDSTACKHOLDER = require('../data/add_stack_holder.json');
 
 
 
@@ -185,6 +185,12 @@ router.get('/profileMenu', function(req, res, next) {
 router.get('/stackHolderWiseRating', function(req, res, next) {
   res.send(STACKHOLDERWISERATING);
 });
+
+router.get('/addStackHolder', function(req, res, next) {
+  res.send(ADDSTACKHOLDER);
+});
+
+
 
 
 
