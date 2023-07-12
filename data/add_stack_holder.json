@@ -12,12 +12,12 @@
             "question":[
                 {
                     "id":1,
-                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing ?",
                     "isPredefined":true
                 },
                 {
                     "id":2,
-                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
                     "isPredefined":true
                 }
             ]
@@ -33,12 +33,12 @@
             "question":[
                 {
                     "id":1,
-                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing ?",
                     "isPredefined":true
                 },
                 {
                     "id":2,
-                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
                     "isPredefined":true
                 }
             ]
@@ -53,12 +53,12 @@
             "question":[
                 {
                     "id":1,
-                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing ?",
                     "isPredefined":true
                 },
                 {
                     "id":2,
-                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
                     "isPredefined":true
                 }
             ]
@@ -73,12 +73,12 @@
             "question":[
                 {
                     "id":1,
-                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing ?",
                     "isPredefined":true
                 },
                 {
                     "id":2,
-                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
                     "isPredefined":true
                 }
             ]
@@ -93,12 +93,12 @@
             "question":[
                 {
                     "id":1,
-                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing ?",
                     "isPredefined":true
                 },
                 {
                     "id":2,
-                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "description":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
                     "isPredefined":true
                 }
             ]
