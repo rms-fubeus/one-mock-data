@@ -1,0 +1,108 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+        "cyberSecurity":{
+            "isExpanded":false,
+            "isActive":true,
+            "rating":{
+                "value":1,
+                "name":"Low"
+            },
+            "question":[
+                {
+                    "id":1,
+                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "isPredefined":true
+                },
+                {
+                    "id":2,
+                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "isPredefined":true
+                }
+            ]
+
+        },
+        "productSecurity":{
+            "isExpanded":false,
+            "isActive":true,
+            "rating":{
+                "value":1,
+                "name":"Low"
+            },
+            "question":[
+                {
+                    "id":1,
+                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "isPredefined":true
+                },
+                {
+                    "id":2,
+                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "isPredefined":true
+                }
+            ]
+        },
+        "physicalSecurity":{
+            "isExpanded":false,
+            "isActive":true,
+            "rating":{
+                "value":1,
+                "name":"Low"
+            },
+            "question":[
+                {
+                    "id":1,
+                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "isPredefined":true
+                },
+                {
+                    "id":2,
+                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "isPredefined":true
+                }
+            ]
+        },
+        "enterpriseResilience":{
+            "isExpanded":false,
+            "isActive":true,
+            "rating":{
+                "value":1,
+                "name":"Low"
+            },
+            "question":[
+                {
+                    "id":1,
+                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "isPredefined":true
+                },
+                {
+                    "id":2,
+                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "isPredefined":true
+                }
+            ]
+        },
+        "supplyChainSecuirty":{
+            "isExpanded":false,
+            "isActive":true,
+            "rating":{
+                "value":1,
+                "name":"Low"
+            },
+            "question":[
+                {
+                    "id":1,
+                    "question":"Lorem Ipsum is simply dummy text of the printing ?",
+                    "isPredefined":true
+                },
+                {
+                    "id":2,
+                    "question":"Lorem Ipsum is simply dummy text of the printing Lorem ?",
+                    "isPredefined":true
+                }
+            ]
+        }
+        
+    }
+}

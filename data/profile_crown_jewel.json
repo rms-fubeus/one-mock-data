@@ -2,10 +2,7 @@
   "status": 200,
   "message": "",
   "data": {
-    "assessment": {
-      "id": 1,
-      "version": 1
-    },
+    "assessmentId": 1,
     "crownJewel": [
       {
         "id": 1,
@@ -14,19 +11,19 @@
         "type": "App",
         "threatVectors": "Vulnerability",
         "confidentiatlityImpact": {
-          "value": 1,
+          "value": 2,
           "name": "medium"
         },
         "integrityImpact": {
-          "value": 0,
+          "value": 1,
           "name": "low"
         },
         "availibilityImpact": {
-          "value": 2,
+          "value": 3,
           "name": "high"
         },
         "overallImpact": {
-          "value": 2,
+          "value": 3,
           "name": "high"
         },
         "confidentiatlityComment": "Lorem",
@@ -40,19 +37,19 @@
         "type": "App2",
         "threatVectors": "Vulnerability",
         "confidentiatlityImpact": {
-          "value": 1,
+          "value": 2,
           "name": "medium"
         },
         "integrityImpact": {
-          "value": 1,
+          "value": 2,
           "name": "medium"
         },
         "availibilityImpact": {
-          "value": 1,
+          "value": 2,
           "name": "medium"
         },
         "overallImpact": {
-          "value": 1,
+          "value": 2,
           "name": "medium"
         },
         "confidentiatlityComment": "Lorem",
@@ -66,19 +63,19 @@
         "type": "App2",
         "threatVectors": "Vulnerability",
         "confidentiatlityImpact": {
-          "value": 0,
+          "value": 1,
           "name": "low"
         },
         "integrityImpact": {
-          "value": 0,
+          "value": 1,
           "name": "low"
         },
         "availibilityImpact": {
-          "value": 0,
+          "value": 1,
           "name": "low"
         },
         "overallImpact": {
-          "value": 0,
+          "value": 1,
           "name": "low"
         },
         "confidentiatlityComment": "Lorem",
