@@ -47,6 +47,10 @@ const PROFILEMENU = require('../data/profile_menu.json');
 const STACKHOLDERWISERATING = require('../data/stack_holder_wise_rating.json');
 const ADDSTACKHOLDER = require('../data/add_stack_holder.json');
 
+const GETSTACKHOLDERBYID = require('../data/get_stackHolder_byId.json');
+
+
+
 
 
 router.get('/users', function(req, res, next) {
@@ -189,6 +193,12 @@ router.get('/stackHolderWiseRating', function(req, res, next) {
 router.get('/addStackHolder', function(req, res, next) {
   res.send(ADDSTACKHOLDER);
 });
+
+router.get('/getStackHolderById', function(req, res, next) {
+  res.send(GETSTACKHOLDERBYID);
+});
+
+
 
 
 

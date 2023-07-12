@@ -40,6 +40,7 @@ router.get("/", function (req, res, next) {
         riskAppetite: "/api/riskAppetite",
         stackHolderWiseRating: "/api/stackHolderWiseRating",
         addStackHolder: "/api/addStackHolder",
+        getStackHolderById: "/api/getStackHolderById",
       },
   });
 });
