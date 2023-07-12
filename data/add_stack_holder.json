@@ -12,12 +12,12 @@
                 {
                     "id": 1,
                     "description": "Lorem Ipsum is simply dummy text of the printing ?",
-                    "isPredefined": true
+                    "isDefault": true
                 },
                 {
                     "id": 2,
                     "description": "Lorem Ipsum is simply dummy text of the printing Lorem ?",
-                    "isPredefined": true
+                    "isDefault": true
                 }
             ]
         },
@@ -31,12 +31,12 @@
                 {
                     "id": 1,
                     "description": "Lorem Ipsum is simply dummy text of the printing ?",
-                    "isPredefined": true
+                    "isDefault": true
                 },
                 {
                     "id": 2,
                     "description": "Lorem Ipsum is simply dummy text of the printing Lorem ?",
-                    "isPredefined": true
+                    "isDefault": true
                 }
             ]
         },
@@ -50,12 +50,12 @@
                 {
                     "id": 1,
                     "description": "Lorem Ipsum is simply dummy text of the printing ?",
-                    "isPredefined": true
+                    "isDefault": true
                 },
                 {
                     "id": 2,
                     "description": "Lorem Ipsum is simply dummy text of the printing Lorem ?",
-                    "isPredefined": true
+                    "isDefault": true
                 }
             ]
         },
@@ -69,12 +69,12 @@
                 {
                     "id": 1,
                     "description": "Lorem Ipsum is simply dummy text of the printing ?",
-                    "isPredefined": true
+                    "isDefault": true
                 },
                 {
                     "id": 2,
                     "description": "Lorem Ipsum is simply dummy text of the printing Lorem ?",
-                    "isPredefined": true
+                    "isDefault": true
                 }
             ]
         },
@@ -88,12 +88,12 @@
                 {
                     "id": 1,
                     "description": "Lorem Ipsum is simply dummy text of the printing ?",
-                    "isPredefined": true
+                    "isDefault": true
                 },
                 {
                     "id": 2,
                     "description": "Lorem Ipsum is simply dummy text of the printing Lorem ?",
-                    "isPredefined": true
+                    "isDefault": true
                 }
             ]
         }
