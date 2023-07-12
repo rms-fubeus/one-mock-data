@@ -167,6 +167,20 @@
                 "value": 1,
                 "name": "Low"
             }
-        }
+        },
+        "stackHolder":[
+            {
+                "id":1,
+                "name":"Stack holder 1"
+            },
+            {
+                "id":2,
+                "name":"Stack holder 2"
+            },
+            {
+                "id":3,
+                "name":"Stack holder 3"
+            }
+        ]
     }
 }
