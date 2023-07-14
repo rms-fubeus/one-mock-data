@@ -1,0 +1,310 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+      "overallRating": 4.2,
+      "status": "In Progress",
+      "totalDomains": 8,
+      "assesedDomains": 4,
+      "dueDate": "2023-06-10T20:05:24.318Z",
+      "riskRating": "High",
+      "domains": [
+        {
+          "id": 1,
+          "domainName": "Identify",
+          "rating": 3.1,
+          "riskRating": "High",
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 5,
+              "riskRating": "High"
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 1,
+              "riskRating": "High"
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 2,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "domainName": "Protect",
+          "rating": 3.1,
+          "riskRating": "High",
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 5,
+              "riskRating": "High"
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 1,
+              "riskRating": "High"
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 2,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "domainName": "Detect",
+          "rating": 3.1,
+          "riskRating": "Medium",
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 5,
+              "riskRating": "High"
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 1,
+              "riskRating": "High"
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 2,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "domainName": "Response",
+          "rating": 3.1,
+          "riskRating": "Medium",
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 5,
+              "riskRating": "High"
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 1,
+              "riskRating": "High"
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "rating": 2,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Medium"
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "riskRating": "Low"
+            }
+          ]
+        }
+      ]
+    }
+  }

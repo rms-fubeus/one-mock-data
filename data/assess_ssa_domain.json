@@ -1,0 +1,261 @@
+{
+  "status": 200,
+  "message": "",
+  "data": {
+    "id": 1,
+    "categoryName": "Category 1",
+    "totalSubcategory": 14,
+    "ratedSubcategory": 5,
+    "rating": 5,
+    "isActive": true,
+    "status": "In Progress",
+    "riskRating": "High",
+    "subCategory": [
+      {
+        "id": 1,
+        "subcategoryName": "Sub-category 1",
+        "isActive": true,
+        "rating": 2.5,
+        "riskRating": "High",
+        "questions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          }
+        ],
+        "surveyQuestions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Multichoice"
+            },
+            "options": [
+              "one",
+              "two",
+              "three"
+            ]
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": 2,
+        "subcategoryName": "Sub-category 2",
+        "isActive": true,
+        "rating": 2.5,
+        "riskRating": "High",
+        "questions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          }
+        ],
+        "surveyQuestions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Multichoice"
+            },
+            "options": [
+              "one",
+              "two",
+              "three"
+            ]
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": 3,
+        "subcategoryName": "Sub-category 3",
+        "isActive": true,
+        "rating": 2.5,
+        "riskRating": "High",
+        "questions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          }
+        ],
+        "surveyQuestions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Multichoice"
+            },
+            "options": [
+              "one",
+              "two",
+              "three"
+            ]
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": 4,
+        "subcategoryName": "Sub-category 4",
+        "isActive": true,
+        "rating": 2.5,
+        "riskRating": "Low",
+        "questions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          }
+        ],
+        "surveyQuestions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Multichoice"
+            },
+            "options": [
+              "one",
+              "two",
+              "three"
+            ]
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "id": 5,
+        "subcategoryName": "Sub-category 5",
+        "isActive": true,
+        "rating": 2.5,
+        "riskRating": "Medium",
+        "questions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          }
+        ],
+        "surveyQuestions": [
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Textbox"
+            }
+          },
+          {
+            "id": 1,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit ?",
+            "type": {
+              "id": 1,
+              "name": "Multichoice"
+            },
+            "options": [
+              "one",
+              "two",
+              "three"
+            ]
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    ]
+  }
+}

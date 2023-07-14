@@ -25,12 +25,6 @@ const SCCORING_LOGIC_DEATIL = require('../data/scoring_logic_detail.json');
 const MAPPING = require('../data/mapping.json');
 const MAPPING_DEATIL = require('../data/mapping_detail.json');
 
-const MATURITY = require('../data/assessment-assess.json');
-const READINESS = require('../data/assessment-readiness.json');
-const SECURITY = require('../data/security-assess.json');
-const MATURITY_NEW = require('../data/maturity_new.json');
-
-
 const INITIATIVES = require('../data/analyze_initiatives.json');
 const RECOMENDATION = require('../data/analyze_recomendation.json');
 const GAPS = require('../data/analyze_gaps.json');
@@ -46,10 +40,42 @@ const JEWELINFO = require('../data/profile_crown_jewel.json');
 const PROFILEMENU = require('../data/profile_menu.json');
 const STACKHOLDERWISERATING = require('../data/stack_holder_wise_rating.json');
 const ADDSTACKHOLDER = require('../data/add_stack_holder.json');
-
 const GETSTACKHOLDERBYID = require('../data/get_stackHolder_byId.json');
 
+const ASSESS_SIDENAV = require('../data/assess_maturity_sidenav.json');
+const ASSESS_MATURITY_CURRENT = require('../data/assess_maturity_current.json');
+const ASSESS_MATURITY_DOMAIN = require('../data/assess_maturity_domain.json');
+const ASSESS_TARGET = require('../data/assess_maturity_target.json');
+const ASSESS_READINESS_CURRENT = require('../data/assess_readiness_current.json');
+const ASSESS_READINESS_DOMAIN = require('../data/assess_readiness_domain.json');
+const ASSESS_SSA_CURRENT = require('../data/assess_ssa_current.json');
+const ASSESS_SSA_DOMAIN = require('../data/assess_ssa_domain.json');
 
+
+router.get('/assess/sidenav', function(req, res, next) {
+  res.send(ASSESS_SIDENAV);
+});
+router.get('/assess/maturity-current', function(req, res, next) {
+  res.send(ASSESS_MATURITY_CURRENT);
+});
+router.get('/assess/maturity-domain', function(req, res, next) {
+  res.send(ASSESS_MATURITY_DOMAIN);
+});
+router.get('/assess/target', function(req, res, next) {
+  res.send(ASSESS_TARGET);
+});
+router.get('/assess/readiness-current', function(req, res, next) {
+  res.send(ASSESS_READINESS_CURRENT);
+});
+router.get('/assess/readiness-domain', function(req, res, next) {
+  res.send(ASSESS_READINESS_DOMAIN);
+});
+router.get('/assess/ssa-current', function(req, res, next) {
+  res.send(ASSESS_SSA_CURRENT);
+});
+router.get('/assess/ssa-domain', function(req, res, next) {
+  res.send(ASSESS_SSA_DOMAIN);
+});
 
 
 

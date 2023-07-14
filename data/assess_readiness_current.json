@@ -1,0 +1,293 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+      "overallScore": 70,
+      "status": "In Progress",
+      "totalDomains": 8,
+      "assesedDomains": 4,
+      "dueDate": "2023-06-10T20:05:24.318Z",
+      "domains": [
+        {
+          "id": 1,
+          "domainName": "Identify",
+          "score": 72,
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 72
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 89
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 40
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 60
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 90
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 36
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 69
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 30
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 20
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "domainName": "Protect",
+          "score": 60,
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 72
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 89
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 40
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 60
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 90
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 36
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 69
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 30
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 20
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "domainName": "Detect",
+          "score": 40,
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 72
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 89
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 40
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 60
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 90
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 36
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 69
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 30
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 20
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "domainName": "Response",
+          "score": 80,
+          "category": [
+            {
+              "id": 1,
+              "categoryName": "Category 1",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 72
+            },
+            {
+              "id": 2,
+              "categoryName": "Category 2",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 89
+            },
+            {
+              "id": 3,
+              "categoryName": "Category 3",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 40
+            },
+            {
+              "id": 4,
+              "categoryName": "Category 4",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 60
+            },
+            {
+              "id": 5,
+              "categoryName": "Category 5",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 90
+            },
+            {
+              "id": 6,
+              "categoryName": "Category 6",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 36
+            },
+            {
+              "id": 7,
+              "categoryName": "Category 7",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 69
+            },
+            {
+              "id": 8,
+              "categoryName": "Category 8",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 30
+            },
+            {
+              "id": 9,
+              "categoryName": "Category 9",
+              "totalSubcategory": 14,
+              "ratedSubcategory": 5,
+              "score": 20
+            }
+          ]
+        }
+      ]
+    }
+  }

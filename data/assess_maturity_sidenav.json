@@ -1,0 +1,157 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+        "clientName": "ACME Corporation",
+        "clientImage": "https://loremflickr.com/640/480/business",
+        "assessmentName": "Half Yearly Assessment",
+        "assessmentType": "Maturity Guided Assessment",
+        "sidenavData": [
+          {
+            "name":"Current Maturity",
+            "domainId": 100
+          },
+          {
+            "name": "Identify",
+            "domainId": 1,
+            "children": [
+              {
+                "name": "Category 1",
+                "domainId": 1,
+                "categoryId": 1
+              },
+              {
+                "name": "Category 2",
+                "domainId": 1,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 3",
+                "domainId": 1,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 4",
+                "domainId": 1,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 5",
+                "domainId": 1,
+                "categoryId": 5
+              },
+              {
+                "name": "Category 6",
+                "domainId": 1,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 7",
+                "domainId": 1,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 8",
+                "domainId": 1,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 9",
+                "domainId": 1,
+                "categoryId": 2
+              }
+            ]
+          },
+          {
+            "name": "Protect",
+            "domainId": 2,
+            "children": [
+              {
+                "name": "Category 1",
+                "domainId": 2,
+                "categoryId": 1
+              },
+              {
+                "name": "Category 2",
+                "domainId": 2,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 3",
+                "domainId": 2,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 4",
+                "domainId": 2,
+                "categoryId": 2
+              },
+              {
+                "name": "Category 5",
+                "domainId": 2,
+                "categoryId": 5
+              },
+              {
+                "name": "Category 6",
+                "domainId": 2,
+                "categoryId": 2
+              }
+            ]
+          },
+          {
+            "name": "Detect",
+            "domainId": 3,
+            "children": [
+              {
+                "name": "Category 1",
+                "domainId": 3,
+                "categoryId": 1
+              },
+              {
+                "name": "Category 2",
+                "domainId": 3,
+                "categoryId": 2
+              }
+            ]
+          },
+          {
+            "name": "Response",
+            "domainId": 4,
+            "children": [
+              {
+                "name": "Category 1",
+                "domainId": 4,
+                "categoryId": 1
+              },
+              {
+                "name": "Category 2",
+                "domainId": 4,
+                "categoryId": 2
+              }
+            ]
+          },
+          {
+            "name":"Target Maturity",
+            "domainId":200,
+            "children":[
+              {
+                "name": "Identify",
+                "domainId": 1
+              },
+              {
+                "name": "Protect",
+                "domainId": 2
+              },
+              {
+                "name": "Detect",
+                "domainId": 3
+              },
+              {
+                "name": "Response",
+                "domainId": 4
+              }
+            ]
+          }
+        ]
+    }
+  }

@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "",
+  "data":  {
+    "id": 1,
+    "domainName": "Identity",
+    "currentMaturityRating": 2.8,
+    "targetMaturityRating": 4,
+    "category": [
+      {
+        "id": 1,
+        "categoryName": "Category 1",
+        "currentMaturityRating": 2.8,
+        "targetMaturityRating": 4,
+        "comments": "lorame lorem ipsum"
+      },
+      {
+        "id": 2,
+        "categoryName": "Category 2",
+        "currentMaturityRating": 1.8,
+        "targetMaturityRating": 4,
+        "comments": "lorame lorem ipsum"
+      },
+      {
+        "id": 3,
+        "categoryName": "Category 3",
+        "currentMaturityRating": 3.8,
+        "targetMaturityRating": 4.5,
+        "comments": "lorame lorem ipsum"
+      },
+      {
+        "id": 4,
+        "categoryName": "Category 4",
+        "currentMaturityRating": 2.8,
+        "targetMaturityRating": 4,
+        "comments": "lorame lorem ipsum"
+      },
+      {
+        "id": 5,
+        "categoryName": "Category 5",
+        "currentMaturityRating": 2.8,
+        "targetMaturityRating": 4,
+        "comments": "lorame lorem ipsum"
+      }
+    ]
+  }
+}

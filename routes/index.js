@@ -5,6 +5,14 @@ router.get("/", function (req, res, next) {
   res.render("index", {
       title: "MOCK DATA",
       url: {
+        assess_sidenav: "/api/assess/sidenav",
+        assess_maturity_current: "/api/assess/maturity-current",
+        assess_maturity_domain: "/api/assess/maturity-domain",
+        assess_target: "/api/assess/target",
+        assess_readiness_domain: "/api/assess/readiness-domain",
+        assess_readiness_current: "/api/assess/readiness-current",
+        assess_ssa_current: "/api/assess/ssa-current",
+        assess_ssa_domain: "/api/assess/ssa-domain",
         users: "/api/users",
         roles: "/api/roles",
         roles_detail: "/api/roles/:id",
