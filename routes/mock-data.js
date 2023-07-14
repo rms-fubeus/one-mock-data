@@ -51,6 +51,9 @@ const ASSESS_READINESS_DOMAIN = require('../data/assess_readiness_domain.json');
 const ASSESS_SSA_CURRENT = require('../data/assess_ssa_current.json');
 const ASSESS_SSA_DOMAIN = require('../data/assess_ssa_domain.json');
 
+const REPORTS_MATURITY = require('../data/reports_maturity.json');
+const REPORTS_READINESS = require('../data/reports_readiness.json');
+const REPORTS_SSA = require('../data/reports_ssa.json');
 
 router.get('/assess/sidenav', function(req, res, next) {
   res.send(ASSESS_SIDENAV);
@@ -77,6 +80,15 @@ router.get('/assess/ssa-domain', function(req, res, next) {
   res.send(ASSESS_SSA_DOMAIN);
 });
 
+router.get('/reports/maturity', function(req, res, next) {
+  res.send(REPORTS_MATURITY);
+});
+router.get('/reports/readiness', function(req, res, next) {
+  res.send(REPORTS_READINESS);
+});
+router.get('/reports/ssa', function(req, res, next) {
+  res.send(REPORTS_SSA);
+});
 
 
 router.get('/users', function(req, res, next) {
