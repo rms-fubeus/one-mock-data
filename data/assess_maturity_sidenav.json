@@ -76,6 +76,7 @@
           {
             "name": "Protect",
             "domainId": 2,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
@@ -118,6 +119,7 @@
           {
             "name": "Detect",
             "domainId": 3,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
@@ -136,6 +138,7 @@
           {
             "name": "Response",
             "domainId": 4,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
