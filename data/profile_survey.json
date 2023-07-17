@@ -16,11 +16,14 @@
     "surveysSent": [
       {
         "user": "Sam",
+        "email":"sam@optive.com",
         "sentDate": "2023-06-30T03:32:55.672Z",
         "responseRecieved": true
+        
       },
       {
         "user": "Tommy",
+        "email":"tommy@optive.com",
         "sentDate": "2023-06-25T03:32:55.672Z",
         "responseRecieved": false
       }
