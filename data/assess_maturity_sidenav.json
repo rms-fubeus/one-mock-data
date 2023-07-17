@@ -15,6 +15,7 @@
           {
             "name": "Identify",
             "domainId": 1,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
@@ -153,6 +154,7 @@
           {
             "name":"Target Maturity",
             "domainId":200,
+            "type":"targetMaturity",
             "children":[
               {
                 "name": "Identify",
