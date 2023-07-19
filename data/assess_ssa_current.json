@@ -6,6 +6,7 @@
       "status": "In Progress",
       "totalDomains": 8,
       "assesedDomains": 4,
+      "clientName":"Acme Corporation",
       "dueDate": "2023-06-10T20:05:24.318Z",
       "riskRating": "High",
       "domains": [
