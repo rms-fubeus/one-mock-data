@@ -5,6 +5,7 @@
     "id": 1,
     "categoryName": "Category 1",
     "totalSubcategory": 14,
+    "domainName": "Identify",
     "ratedSubcategory": 5,
     "score": 70,
     "isActive": true,

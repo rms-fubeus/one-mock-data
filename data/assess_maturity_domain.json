@@ -6,6 +6,7 @@
     "categoryName": "Category 1",
     "totalSubcategory": 14,
     "ratedSubcategory": 5,
+    "domainName": "Identify",
     "rating": 5,
     "isActive": true,
     "status": "In Progress",
