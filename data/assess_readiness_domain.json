@@ -17,17 +17,17 @@
         "isActive": true,
         "complianceLevel":  [
           {
-            "id": 1,
+            "value": 100,
             "label": "Fully Implemented",
             "selected": false
           },
           {
-            "id": 2,
+            "value": 50,
             "label": "Partially Implemented",
             "selected": false
           },
           {
-            "id": 3,
+            "value": 0,
             "label": "Not Implemented",
             "selected": false
           }
@@ -81,17 +81,17 @@
         "isActive": true,
         "complianceLevel":  [
           {
-            "id": 1,
+            "value": 100,
             "label": "Fully Implemented",
             "selected": false
           },
           {
-            "id": 2,
+            "value": 50,
             "label": "Partially Implemented",
             "selected": false
           },
           {
-            "id": 3,
+            "value": 0,
             "label": "Not Implemented",
             "selected": false
           }
@@ -145,17 +145,17 @@
         "isActive": true,
         "complianceLevel":  [
           {
-            "id": 1,
+            "value": 100,
             "label": "Fully Implemented",
             "selected": false
           },
           {
-            "id": 2,
+            "value": 50,
             "label": "Partially Implemented",
             "selected": false
           },
           {
-            "id": 3,
+            "value": 0,
             "label": "Not Implemented",
             "selected": false
           }
@@ -209,17 +209,17 @@
         "isActive": true,
         "complianceLevel":  [
           {
-            "id": 1,
+            "value": 100,
             "label": "Fully Implemented",
             "selected": false
           },
           {
-            "id": 2,
+            "value": 50,
             "label": "Partially Implemented",
             "selected": false
           },
           {
-            "id": 3,
+            "value": 0,
             "label": "Not Implemented",
             "selected": false
           }
