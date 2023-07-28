@@ -7,7 +7,7 @@
     "totalSubcategory": 14,
     "domainName": "Identify",
     "ratedSubcategory": 5,
-    "score": 70,
+    "score": 50,
     "isActive": true,
     "status": "In Progress",
     "subCategory": [
@@ -63,7 +63,7 @@
         "id": 2,
         "subcategoryName": "Sub-category 2",
         "isActive": true,
-        "complianceLevel": 100,
+        "complianceLevel": 50,
         "questions": [
           {
             "id": 1,
@@ -111,7 +111,7 @@
         "id": 3,
         "subcategoryName": "Sub-category 3",
         "isActive": true,
-        "complianceLevel": 100,
+        "complianceLevel": 50,
         "questions": [
           {
             "id": 1,
@@ -159,7 +159,7 @@
         "id": 4,
         "subcategoryName": "Sub-category 4",
         "isActive": true,
-        "complianceLevel": 100,
+        "complianceLevel": 0,
         "questions": [
           {
             "id": 1,
