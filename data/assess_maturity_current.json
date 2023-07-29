@@ -159,6 +159,48 @@
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
             "rating": 2
+          },
+          {
+            "id": 4,
+            "categoryName": "Category 4",
+            "totalSubcategory": 14,
+            "ratedSubcategory": 5,
+            "rating": 2
+          },
+          {
+            "id": 5,
+            "categoryName": "Category 5",
+            "totalSubcategory": 14,
+            "ratedSubcategory": 5,
+            "rating": 2
+          },
+          {
+            "id": 6,
+            "categoryName": "Category 6",
+            "totalSubcategory": 14,
+            "ratedSubcategory": 5,
+            "rating": 2
+          },
+          {
+            "id": 7,
+            "categoryName": "Category 7",
+            "totalSubcategory": 14,
+            "ratedSubcategory": 5,
+            "rating": 4
+          },
+          {
+            "id": 8,
+            "categoryName": "Category 8",
+            "totalSubcategory": 14,
+            "ratedSubcategory": 5,
+            "rating": 5
+          },
+          {
+            "id": 9,
+            "categoryName": "Category 9",
+            "totalSubcategory": 14,
+            "ratedSubcategory": 5,
+            "rating": 1
           }
         ]
       }
