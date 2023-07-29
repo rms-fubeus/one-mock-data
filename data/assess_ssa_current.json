@@ -44,6 +44,7 @@
               "id": 4,
               "categoryName": "Category 4",
               "totalSubcategory": 14,
+              "rating": 2,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             },
@@ -51,6 +52,7 @@
               "id": 5,
               "categoryName": "Category 5",
               "totalSubcategory": 14,
+              "rating": 1,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             },
@@ -59,6 +61,7 @@
               "categoryName": "Category 6",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "rating": 2,
               "riskRating": "Medium"
             },
             {
@@ -66,6 +69,7 @@
               "categoryName": "Category 7",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "rating": 5,
               "riskRating": "Low"
             },
             {
@@ -73,12 +77,14 @@
               "categoryName": "Category 8",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "rating": 4,
               "riskRating": "Low"
             },
             {
               "id": 9,
               "categoryName": "Category 9",
               "totalSubcategory": 14,
+              "rating": 2,
               "ratedSubcategory": 5,
               "riskRating": "Low"
             }
@@ -118,6 +124,7 @@
               "id": 4,
               "categoryName": "Category 4",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             },
@@ -125,6 +132,7 @@
               "id": 5,
               "categoryName": "Category 5",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             },
@@ -132,6 +140,7 @@
               "id": 6,
               "categoryName": "Category 6",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             },
@@ -139,6 +148,7 @@
               "id": 7,
               "categoryName": "Category 7",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Low"
             }
@@ -178,6 +188,7 @@
               "id": 4,
               "categoryName": "Category 4",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             },
@@ -185,6 +196,7 @@
               "id": 5,
               "categoryName": "Category 5",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             }
@@ -224,6 +236,7 @@
               "id": 4,
               "categoryName": "Category 4",
               "totalSubcategory": 14,
+              "rating": 5,
               "ratedSubcategory": 5,
               "riskRating": "Medium"
             }
