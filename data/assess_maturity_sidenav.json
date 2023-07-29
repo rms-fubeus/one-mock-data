@@ -9,7 +9,6 @@
         "sidenavData": [
           {
             "name":"Current Maturity",
-            "domainId": 100,
             "type":"currentMaturity"
           },
           {
