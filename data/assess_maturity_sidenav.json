@@ -155,7 +155,6 @@
           },
           {
             "name":"Target Maturity",
-            "domainId":200,
             "type":"targetMaturity",
             "children":[
               {
