@@ -10,7 +10,9 @@
     "domainName": "Identify",
     "isActive": true,
     "status": "In Progress",
-    "riskRating": "High",
+    "riskRating": 3,
+    "impactRating":3,
+    "likelihoodRating":3,
     "subCategory": [
       {
         "id": 1,

@@ -15,7 +15,7 @@
         "id": 1,
         "subcategoryName": "Sub-category 1",
         "isActive": true,
-        "rating": 2.5,
+        "rating": 0,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -91,7 +91,7 @@
         "id": 2,
         "subcategoryName": "Sub-category 2",
         "isActive": true,
-        "rating": 2.5,
+        "rating": 1,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -167,7 +167,7 @@
         "id": 3,
         "subcategoryName": "Sub-category 3",
         "isActive": true,
-        "rating": 3.5,
+        "rating": 2,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -243,7 +243,7 @@
         "id": 4,
         "subcategoryName": "Sub-category 4",
         "isActive": true,
-        "rating": 3.5,
+        "rating": 3,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -319,7 +319,7 @@
         "id": 5,
         "subcategoryName": "Sub-category 5",
         "isActive": true,
-        "rating": 3.5,
+        "rating": 4,
         "isGuided": true,
         "maturityLevel": [
           {
