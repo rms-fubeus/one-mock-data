@@ -12,11 +12,13 @@
           "id": 1,
           "domainName": "Identify",
           "score": 72,
+          "isActive":false,
           "category": [
             {
               "id": 1,
               "categoryName": "Category 1",
               "totalSubcategory": 14,
+              "isActive":false,
               "ratedSubcategory": 5,
               "score": 72
             },
@@ -24,6 +26,7 @@
               "id": 2,
               "categoryName": "Category 2",
               "totalSubcategory": 14,
+              "isActive":true,
               "ratedSubcategory": 5,
               "score": 89
             },
@@ -32,6 +35,7 @@
               "categoryName": "Category 3",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 40
             },
             {
@@ -39,6 +43,7 @@
               "categoryName": "Category 4",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 60
             },
             {
@@ -46,6 +51,7 @@
               "categoryName": "Category 5",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 90
             }
           ]
@@ -54,12 +60,14 @@
           "id": 2,
           "domainName": "Protect",
           "score": 60,
+          "isActive":true,
           "category": [
             {
               "id": 1,
               "categoryName": "Category 1",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 72
             },
             {
@@ -67,6 +75,7 @@
               "categoryName": "Category 2",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 89
             },
             {
@@ -74,6 +83,7 @@
               "categoryName": "Category 3",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 40
             },
             {
@@ -81,6 +91,7 @@
               "categoryName": "Category 4",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 60
             },
             {
@@ -88,6 +99,7 @@
               "categoryName": "Category 5",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 90
             },
             {
@@ -95,6 +107,7 @@
               "categoryName": "Category 6",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 36
             }
           ]
@@ -103,12 +116,14 @@
           "id": 3,
           "domainName": "Detect",
           "score": 40,
+          "isActive":true,
           "category": [
             {
               "id": 1,
               "categoryName": "Category 1",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 72
             },
             {
@@ -116,12 +131,14 @@
               "categoryName": "Category 2",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 89
             },
             {
               "id": 3,
               "categoryName": "Category 3",
               "totalSubcategory": 14,
+              "isActive":false,
               "ratedSubcategory": 5,
               "score": 40
             },
@@ -130,6 +147,7 @@
               "categoryName": "Category 4",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 60
             },
             {
@@ -137,6 +155,7 @@
               "categoryName": "Category 5",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 90
             },
             {
@@ -144,6 +163,7 @@
               "categoryName": "Category 6",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 36
             },
             {
@@ -151,6 +171,7 @@
               "categoryName": "Category 7",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 69
             },
             {
@@ -158,6 +179,7 @@
               "categoryName": "Category 8",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 30
             },
             {
@@ -165,6 +187,7 @@
               "categoryName": "Category 9",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 20
             }
           ]
@@ -173,12 +196,14 @@
           "id": 4,
           "domainName": "Response",
           "score": 80,
+          "isActive":true,
           "category": [
             {
               "id": 1,
               "categoryName": "Category 1",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 72
             },
             {
@@ -186,6 +211,7 @@
               "categoryName": "Category 2",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 89
             },
             {
@@ -193,6 +219,7 @@
               "categoryName": "Category 3",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":false,
               "score": 40
             },
             {
@@ -200,6 +227,7 @@
               "categoryName": "Category 4",
               "totalSubcategory": 14,
               "ratedSubcategory": 5,
+              "isActive":true,
               "score": 60
             }
           ]

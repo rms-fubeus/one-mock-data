@@ -12,12 +12,14 @@
         "id": 1,
         "domainName": "Identify",
         "rating": 3.1,
+        "isActive":false,
         "category": [
           {
             "id": 1,
             "categoryName": "Category 1",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 5
           },
           {
@@ -25,6 +27,7 @@
             "categoryName": "Category 2",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 1
           },
           {
@@ -32,6 +35,7 @@
             "categoryName": "Category 3",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           },
           {
@@ -39,6 +43,7 @@
             "categoryName": "Category 4",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 2
           },
           {
@@ -46,6 +51,7 @@
             "categoryName": "Category 5",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           }
         ]
@@ -54,12 +60,14 @@
         "id": 2,
         "domainName": "Protect",
         "rating": 3.1,
+        "isActive":true,
         "category": [
           {
             "id": 1,
             "categoryName": "Category 1",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 5
           },
           {
@@ -67,6 +75,7 @@
             "categoryName": "Category 2",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 1
           },
           {
@@ -74,6 +83,7 @@
             "categoryName": "Category 3",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           },
           {
@@ -81,6 +91,7 @@
             "categoryName": "Category 4",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 2
           }
         ]
@@ -89,12 +100,14 @@
         "id": 3,
         "domainName": "Detect",
         "rating": 3.1,
+        "isActive":true,
         "category": [
           {
             "id": 1,
             "categoryName": "Category 1",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 5
           },
           {
@@ -102,6 +115,7 @@
             "categoryName": "Category 2",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 1
           },
           {
@@ -109,6 +123,7 @@
             "categoryName": "Category 3",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           },
           {
@@ -116,6 +131,7 @@
             "categoryName": "Category 4",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 2
           },
           {
@@ -123,6 +139,7 @@
             "categoryName": "Category 5",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           },
           {
@@ -130,6 +147,7 @@
             "categoryName": "Category 6",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 2
           }
         ]
@@ -138,12 +156,14 @@
         "id": 4,
         "domainName": "Response",
         "rating": 3.1,
+        "isActive":true,
         "category": [
           {
             "id": 1,
             "categoryName": "Category 1",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 5
           },
           {
@@ -151,6 +171,7 @@
             "categoryName": "Category 2",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 1
           },
           {
@@ -158,6 +179,7 @@
             "categoryName": "Category 3",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           },
           {
@@ -165,6 +187,7 @@
             "categoryName": "Category 4",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 2
           },
           {
@@ -172,6 +195,7 @@
             "categoryName": "Category 5",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 2
           },
           {
@@ -179,6 +203,7 @@
             "categoryName": "Category 6",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 2
           },
           {
@@ -186,6 +211,7 @@
             "categoryName": "Category 7",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 4
           },
           {
@@ -193,6 +219,7 @@
             "categoryName": "Category 8",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":true,
             "rating": 5
           },
           {
@@ -200,6 +227,7 @@
             "categoryName": "Category 9",
             "totalSubcategory": 14,
             "ratedSubcategory": 5,
+            "isActive":false,
             "rating": 1
           }
         ]
