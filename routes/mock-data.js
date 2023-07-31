@@ -54,6 +54,7 @@ const ASSESS_SSA_DOMAIN = require('../data/assess_ssa_domain.json');
 const REPORTS_MATURITY = require('../data/reports_maturity.json');
 const REPORTS_READINESS = require('../data/reports_readiness.json');
 const REPORTS_SSA = require('../data/reports_ssa.json');
+const NOTIFICATION = require('../data/notification.json');
 
 router.get('/assess/sidenav', function(req, res, next) {
   res.send(ASSESS_SIDENAV);
@@ -235,6 +236,11 @@ router.get('/addStackHolder', function(req, res, next) {
 router.get('/getStackHolderById', function(req, res, next) {
   res.send(GETSTACKHOLDERBYID);
 });
+
+router.get('/notification', function(req, res, next) {
+  res.send(NOTIFICATION);
+});
+
 
 
 

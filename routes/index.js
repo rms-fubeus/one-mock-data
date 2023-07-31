@@ -52,6 +52,7 @@ router.get("/", function (req, res, next) {
         stackHolderWiseRating: "/api/stackHolderWiseRating",
         addStackHolder: "/api/addStackHolder",
         getStackHolderById: "/api/getStackHolderById",
+        notification: "/api/notification",
       },
   });
 });

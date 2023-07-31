@@ -9,146 +9,173 @@
         "sidenavData": [
           {
             "name":"Current Maturity",
-            "domainId": 100
+            "type":"currentMaturity"
           },
           {
             "name": "Identify",
             "domainId": 1,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
                 "domainId": 1,
-                "categoryId": 1
+                "categoryId": 1,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 2",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 3",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 4",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 5",
                 "domainId": 1,
-                "categoryId": 5
+                "categoryId": 5,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 6",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 7",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 8",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 9",
                 "domainId": 1,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               }
             ]
           },
           {
             "name": "Protect",
             "domainId": 2,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
                 "domainId": 2,
-                "categoryId": 1
+                "categoryId": 1,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 2",
                 "domainId": 2,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 3",
                 "domainId": 2,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 4",
                 "domainId": 2,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 5",
                 "domainId": 2,
-                "categoryId": 5
+                "categoryId": 5,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 6",
                 "domainId": 2,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               }
             ]
           },
           {
             "name": "Detect",
             "domainId": 3,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
                 "domainId": 3,
-                "categoryId": 1
+                "categoryId": 1,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 2",
                 "domainId": 3,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               }
             ]
           },
           {
             "name": "Response",
             "domainId": 4,
+            "type":"categoryDetail",
             "children": [
               {
                 "name": "Category 1",
                 "domainId": 4,
-                "categoryId": 1
+                "categoryId": 1,
+                "type":"categoryDetail"
               },
               {
                 "name": "Category 2",
                 "domainId": 4,
-                "categoryId": 2
+                "categoryId": 2,
+                "type":"categoryDetail"
               }
             ]
           },
           {
             "name":"Target Maturity",
-            "domainId":200,
+            "type":"targetMaturity",
             "children":[
               {
                 "name": "Identify",
-                "domainId": 1
+                "domainId": 1,
+                "type":"targetMaturity"
               },
               {
                 "name": "Protect",
-                "domainId": 2
+                "domainId": 2,
+                "type":"targetMaturity"
               },
               {
                 "name": "Detect",
-                "domainId": 3
+                "domainId": 3,
+                "type":"targetMaturity"
               },
               {
                 "name": "Response",
-                "domainId": 4
+                "domainId": 4,
+                "type":"targetMaturity"
               }
             ]
           }

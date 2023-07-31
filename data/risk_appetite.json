@@ -42,7 +42,7 @@
         },
         "productSecurity": {
             "id": 2,
-            "name": "Product security",
+            "name": "Product Security",
             "logo": "",
             "stackHolderRated": [
                 {
@@ -74,7 +74,7 @@
         },
         "physicalSecurity": {
             "id": 3,
-            "name": "Physical security",
+            "name": "Physical Security",
             "logo": "",
             "stackHolderRated": [
                 {
@@ -138,7 +138,7 @@
         },
         "supplyChainSecuirty": {
             "id": 5,
-            "name": "Supply Chain security",
+            "name": "Supply Chain Security",
             "logo": "",
             "stackHolderRated": [
                 {
@@ -171,15 +171,15 @@
         "stackHolder":[
             {
                 "id":1,
-                "name":"Stack holder 1"
+                "name":"Rahul menon"
             },
             {
                 "id":2,
-                "name":"Stack holder 2"
+                "name":"Nikhil"
             },
             {
                 "id":3,
-                "name":"Stack holder 3"
+                "name":"Aman"
             }
         ]
     }

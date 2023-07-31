@@ -6,6 +6,7 @@
     "categoryName": "Category 1",
     "totalSubcategory": 14,
     "ratedSubcategory": 5,
+    "domainName": "Identify",
     "rating": 5,
     "isActive": true,
     "status": "In Progress",
@@ -14,7 +15,7 @@
         "id": 1,
         "subcategoryName": "Sub-category 1",
         "isActive": true,
-        "rating": 2.5,
+        "rating": 0,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -90,7 +91,7 @@
         "id": 2,
         "subcategoryName": "Sub-category 2",
         "isActive": true,
-        "rating": 2.5,
+        "rating": 1,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -115,26 +116,6 @@
           },
           {
             "id": 5,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 6,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 7,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 8,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 9,
             "selected": false,
             "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
           }
@@ -186,7 +167,7 @@
         "id": 3,
         "subcategoryName": "Sub-category 3",
         "isActive": true,
-        "rating": 3.5,
+        "rating": 2,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -211,26 +192,6 @@
           },
           {
             "id": 5,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 6,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 7,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 8,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 9,
             "selected": false,
             "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
           }
@@ -282,7 +243,7 @@
         "id": 4,
         "subcategoryName": "Sub-category 4",
         "isActive": true,
-        "rating": 3.5,
+        "rating": 3,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -307,26 +268,6 @@
           },
           {
             "id": 5,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 6,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 7,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 8,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 9,
             "selected": false,
             "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
           }
@@ -378,7 +319,7 @@
         "id": 5,
         "subcategoryName": "Sub-category 5",
         "isActive": true,
-        "rating": 3.5,
+        "rating": 4,
         "isGuided": true,
         "maturityLevel": [
           {
@@ -403,26 +344,6 @@
           },
           {
             "id": 5,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 6,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 7,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 8,
-            "selected": false,
-            "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-          },
-          {
-            "id": 9,
             "selected": false,
             "statement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
           }
