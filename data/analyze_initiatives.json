@@ -34,48 +34,7 @@
                 "description":"It is a long established fact that a reader will be distracted . "
             }
         ],
-        "level": [
-            {
-                "id": 1,
-                "name": "Low"
-            },
-            {
-                "id": 2,
-                "name": "Medium"
-            },
-            {
-                "id": 3,
-                "name": "High"
-            }
-        ],
-        "priority": [
-            {
-                "id": 1,
-                "name": "Do Next"
-            },
-            {
-                "id": 2,
-                "name": "Do Later"
-            }
-        ],
-        "implemetaionPeriod": [
-            {
-                "id": 1,
-                "name": "2023 Q1"
-            },
-            {
-                "id": 2,
-                "name": "2023 Q2"
-            },
-            {
-                "id": 3,
-                "name": "2023 Q3"
-            },
-            {
-                "id": 4,
-                "name": "2023 Q4"
-            }
-        ],
+        
         "initiativesDetails": [
             {
                 "id": 1,
@@ -110,9 +69,9 @@
                     "id": 1,
                     "name": "Do Next"
                 },
-                "startPeriodOfMonth": 2023,
+                "startPeriodOfMonth": 2024,
                 "startPeriodOfQarter": "Q1",
-                "endPeriodOfMonth": 2024,
+                "endPeriodOfMonth": 2025,
                 "endPeriodOfQarter": "Q2",
                 "description": "It is a long established . "
             },
@@ -149,9 +108,9 @@
                     "id": 1,
                     "name": "Do Next"
                 },
-                "startPeriodOfMonth": 2023,
+                "startPeriodOfMonth": 2025,
                 "startPeriodOfQarter": "Q1",
-                "endPeriodOfMonth": 2024,
+                "endPeriodOfMonth": 2026,
                 "endPeriodOfQarter": "Q2",
                 "description": "It is a long established . "
             },
@@ -188,9 +147,9 @@
                     "id": 1,
                     "name": "Do Next"
                 },
-                "startPeriodOfMonth": 2023,
+                "startPeriodOfMonth": 2026,
                 "startPeriodOfQarter": "Q1",
-                "endPeriodOfMonth": 2024,
+                "endPeriodOfMonth": 2027,
                 "endPeriodOfQarter": "Q2",
                 "description": "It is a long established . "
             },
@@ -227,9 +186,9 @@
                     "id": 1,
                     "name": "Do Next"
                 },
-                "startPeriodOfMonth": 2023,
+                "startPeriodOfMonth": 2027,
                 "startPeriodOfQarter": "Q1",
-                "endPeriodOfMonth": 2024,
+                "endPeriodOfMonth": 2028,
                 "endPeriodOfQarter": "Q2",
                 "description": "It is a long established . "
             }
