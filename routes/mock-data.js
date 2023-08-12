@@ -57,6 +57,8 @@ const REPORTS_SSA = require('../data/reports_ssa.json');
 const NOTIFICATION = require('../data/notification.json');
 const PURGE = require('../data/purge_data.json');
 const PURGECLINET = require('../data/client_assessmentList.json');
+const COLORTHEME = require('../data/color_theme.json');
+
 
 
 router.get('/assess/sidenav', function(req, res, next) {
@@ -251,6 +253,12 @@ router.get('/purge', function(req, res, next) {
 router.get('/purgeClinet', function(req, res, next) {
   res.send(PURGECLINET);
 });
+
+router.get('/colorTheme', function(req, res, next) {
+  res.send(COLORTHEME);
+});
+
+
 
 
 
