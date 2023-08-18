@@ -59,6 +59,8 @@ const PURGE = require('../data/purge_data.json');
 const PURGECLINET = require('../data/client_assessmentList.json');
 const COLORTHEME = require('../data/color_theme.json');
 
+const BASEREPORT = require('../data/base_report.json');
+
 
 
 router.get('/assess/sidenav', function(req, res, next) {
@@ -257,6 +259,12 @@ router.get('/purgeClinet', function(req, res, next) {
 router.get('/colorTheme', function(req, res, next) {
   res.send(COLORTHEME);
 });
+
+router.get('/basereport', function(req, res, next) {
+  res.send(BASEREPORT);
+});
+
+
 
 
 

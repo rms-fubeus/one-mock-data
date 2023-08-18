@@ -55,7 +55,8 @@ router.get("/", function (req, res, next) {
         notification: "/api/notification",
         purge: "/api/purge",
         purgeClinet:"/api/purgeClinet",
-        colorTheme:"/api/colorTheme"
+        colorTheme:"/api/colorTheme",
+        basereport:"/api/basereport"
       },
   });
 });
