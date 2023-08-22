@@ -60,6 +60,9 @@ const PURGECLINET = require('../data/client_assessmentList.json');
 const COLORTHEME = require('../data/color_theme.json');
 
 const BASEREPORT = require('../data/base_report.json');
+const ACTIVITY = require('../data/activity.json');
+
+
 
 
 
@@ -263,6 +266,12 @@ router.get('/colorTheme', function(req, res, next) {
 router.get('/basereport', function(req, res, next) {
   res.send(BASEREPORT);
 });
+
+router.get('/activity', function(req, res, next) {
+  res.send(ACTIVITY);
+});
+
+
 
 
 
