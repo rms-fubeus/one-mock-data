@@ -72,6 +72,7 @@
               }
             ]
           },
+          
           {
             "name": "Protect",
             "domainId": 2,
@@ -155,30 +156,29 @@
           },
           {
             "name":"Target Maturity",
-            "type":"targetMaturity",
-            "children":[
-              {
-                "name": "Identify",
+            "type":"targetMaturitylanding"
+          },
+          {
+            "name": "Identify",
                 "domainId": 1,
                 "type":"targetMaturity"
-              },
-              {
-                "name": "Protect",
-                "domainId": 2,
+          },
+          {
+            "name": "Protect",
+                "domainId": 1,
                 "type":"targetMaturity"
-              },
-              {
-                "name": "Detect",
-                "domainId": 3,
+          },
+          {
+            "name": "Detect",
+                "domainId": 1,
                 "type":"targetMaturity"
-              },
-              {
-                "name": "Response",
-                "domainId": 4,
+          },
+          {
+            "name": "Respond",
+                "domainId": 1,
                 "type":"targetMaturity"
-              }
-            ]
           }
+          
         ]
     }
   }
