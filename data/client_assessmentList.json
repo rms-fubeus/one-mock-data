@@ -1,0 +1,80 @@
+{
+    "status": "200",
+    "message": "",
+    "data":[
+        {
+            "id":1,
+            "name":"Acme",
+            "assessment":[
+                {
+                    "id":1,
+                    "name":"Acme 1"
+                },
+                {
+                    "id":2,
+                    "name":"Acme 2"
+                },
+                {
+                    "id":3,
+                    "name":"Acme 3"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Nokia",
+            "assessment":[
+                {
+                    "id":1,
+                    "name":"Nokia 1"
+                },
+                {
+                    "id":2,
+                    "name":"Nokia 2"
+                },
+                {
+                    "id":3,
+                    "name":"Nokia 3"
+                }
+            ]
+        },
+        
+        {
+            "id":3,
+            "name":"Google",
+            "assessment":[
+                {
+                    "id":1,
+                    "name":"Google 1"
+                },
+                {
+                    "id":2,
+                    "name":"Google 2"
+                },
+                {
+                    "id":3,
+                    "name":"Google 3"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"Apple",
+            "assessment":[
+                {
+                    "id":1,
+                    "name":"Apple 1"
+                },
+                {
+                    "id":2,
+                    "name":"Apple 2"
+                },
+                {
+                    "id":3,
+                    "name":"Apple 3"
+                }
+            ]
+        }
+        
+    ]
+}

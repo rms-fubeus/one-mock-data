@@ -1,0 +1,54 @@
+{
+    "status": "200",
+    "message": "",
+    "data":[
+        {
+            "client":{
+                "id":1,
+                "name":"Acme"
+            },
+            "assessment":{
+                "id":1,
+                "name":"Org Maturity "
+            },
+            "status":"Archived on 12 march, 2022"
+            
+        },
+        {
+            "client":{
+                "id":2,
+                "name":"Nokia"
+            },
+            "assessment":{
+                "id":2,
+                "name":"Org Maturity "
+            },
+            "status":"Scheduled Archive in 24 Months"
+            
+        },
+        {
+            "client":{
+                "id":3,
+                "name":"Google"
+            },
+            "assessment":{
+                "id":3,
+                "name":"Org Maturity "
+            },
+            "status":"Archived on 12 march, 2022"
+            
+        },
+        {
+            "client":{
+                "id":4,
+                "name":"Apple"
+            },
+            "assessment":{
+                "id":3,
+                "name":"Org Maturity "
+            },
+            "status":"Scheduled Archive in 24 Months"
+            
+        }
+    ]
+}

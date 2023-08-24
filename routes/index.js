@@ -53,6 +53,12 @@ router.get("/", function (req, res, next) {
         addStackHolder: "/api/addStackHolder",
         getStackHolderById: "/api/getStackHolderById",
         notification: "/api/notification",
+        purge: "/api/purge",
+        purgeClinet:"/api/purgeClinet",
+        colorTheme:"/api/colorTheme",
+        basereport:"/api/basereport",
+        activity:"/api/activity"
+        
       },
   });
 });
