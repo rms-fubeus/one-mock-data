@@ -1,184 +1,228 @@
 {
-    "status": 200,
-    "message": "",
-    "data": {
-        "clientName": "ACME Corporation",
-        "clientImage": "https://loremflickr.com/640/480/business",
-        "assessmentName": "Half Yearly Assessment",
-        "assessmentType": "Maturity Guided Assessment",
-        "sidenavData": [
+  "status": 200,
+  "message": "Assess Side NavDetails found",
+  "data": {
+    "country": "dd",
+    "assessmentType": {
+      "name": "Maturity",
+      "value": 1
+    },
+    "clientName": "Google",
+    "interviewType": 2,
+    "city": "sagfs",
+    "assessmentName": "SURVEY",
+    "clientImage": "https://d3de00wb4oem75.cloudfront.net/dev/client-logo/Google_2023-06-28_11:59:32.jpg?Expires=1692941942&Signature=QA6voXuETJUOTnslsLGhBu-l6Nf17~IiifNBqmT8LtRQcW1OnBEsbwefSVMlPcT5h5~lUpa6XmOWiVhIwNPAVKvEEki-KgQd1g94VYoFSBqY8boY8anfqhzAaUE7GelvVJOikrmBkbcZ7PBIg-oFuhL6vr4H022GgRUiz9aqsroOU47XAOekOKieTzcJ6wFeJSR2Gs33eR~Ed-o3dIcmK~KDbWrDVle8Vcox4VrZCQ0fEN0gWMgyuXp6~zyzJmH1v7h8TubLuJp1jbMywpku8g4LiYRaovBDJG6JBBdsXvQxXCgWMoWMl1EYoRC5hSnTuRg3gl0Z-2Rfr0gSZ9Onpg__&Key-Pair-Id=K1KZEJLX8127A4",
+    "sideNavData": [
+      {
+        "name": "Current Maturity",
+        "domainId": 0,
+        "type": "currentMaturity",
+        "children": null
+      },
+      {
+        "name": "IDENTIFY",
+        "domainId": 431,
+        "type": "categoryDetail",
+        "children": [
           {
-            "name":"Current Maturity",
-            "type":"currentMaturity"
+            "name": "Business Environment",
+            "type": "categoryDetail",
+            "domainId": 431,
+            "categoryId": 1618
           },
           {
-            "name": "Identify",
-            "domainId": 1,
-            "type":"categoryDetail",
-            "children": [
-              {
-                "name": "Category 1",
-                "domainId": 1,
-                "categoryId": 1,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 2",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 3",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 4",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 5",
-                "domainId": 1,
-                "categoryId": 5,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 6",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 7",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 8",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 9",
-                "domainId": 1,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              }
-            ]
-          },
-          
-          {
-            "name": "Protect",
-            "domainId": 2,
-            "type":"categoryDetail",
-            "children": [
-              {
-                "name": "Category 1",
-                "domainId": 2,
-                "categoryId": 1,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 2",
-                "domainId": 2,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 3",
-                "domainId": 2,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 4",
-                "domainId": 2,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 5",
-                "domainId": 2,
-                "categoryId": 5,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 6",
-                "domainId": 2,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              }
-            ]
+            "name": "Governance",
+            "type": "categoryDetail",
+            "domainId": 431,
+            "categoryId": 1619
           },
           {
-            "name": "Detect",
-            "domainId": 3,
-            "type":"categoryDetail",
-            "children": [
-              {
-                "name": "Category 1",
-                "domainId": 3,
-                "categoryId": 1,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 2",
-                "domainId": 3,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              }
-            ]
+            "name": "Risk Assessment",
+            "type": "categoryDetail",
+            "domainId": 431,
+            "categoryId": 1620
           },
           {
-            "name": "Response",
-            "domainId": 4,
-            "type":"categoryDetail",
-            "children": [
-              {
-                "name": "Category 1",
-                "domainId": 4,
-                "categoryId": 1,
-                "type":"categoryDetail"
-              },
-              {
-                "name": "Category 2",
-                "domainId": 4,
-                "categoryId": 2,
-                "type":"categoryDetail"
-              }
-            ]
+            "name": "Risk Management Strategy",
+            "type": "categoryDetail",
+            "domainId": 431,
+            "categoryId": 1621
           },
           {
-            "name":"Target Maturity",
-            "type":"targetMaturitylanding"
+            "name": "Supply Chain Risk Management",
+            "type": "categoryDetail",
+            "domainId": 431,
+            "categoryId": 1622
           },
           {
-            "name": "Identify",
-                "domainId": 1,
-                "type":"targetMaturity"
-          },
-          {
-            "name": "Protect",
-                "domainId": 1,
-                "type":"targetMaturity"
-          },
-          {
-            "name": "Detect",
-                "domainId": 1,
-                "type":"targetMaturity"
-          },
-          {
-            "name": "Respond",
-                "domainId": 1,
-                "type":"targetMaturity"
+            "name": "Asset Management",
+            "type": "categoryDetail",
+            "domainId": 431,
+            "categoryId": 1617
           }
-          
         ]
-    }
+      },
+      {
+        "name": "PROTECT",
+        "domainId": 432,
+        "type": "categoryDetail",
+        "children": [
+          {
+            "name": "Protective Technology",
+            "type": "categoryDetail",
+            "domainId": 432,
+            "categoryId": 1628
+          },
+          {
+            "name": "Maintenance",
+            "type": "categoryDetail",
+            "domainId": 432,
+            "categoryId": 1627
+          },
+          {
+            "name": "Information Protection Processes and Procedures",
+            "type": "categoryDetail",
+            "domainId": 432,
+            "categoryId": 1626
+          },
+          {
+            "name": "Data Security",
+            "type": "categoryDetail",
+            "domainId": 432,
+            "categoryId": 1625
+          },
+          {
+            "name": "Awareness and Training",
+            "type": "categoryDetail",
+            "domainId": 432,
+            "categoryId": 1624
+          },
+          {
+            "name": "Access Control",
+            "type": "categoryDetail",
+            "domainId": 432,
+            "categoryId": 1623
+          }
+        ]
+      },
+      {
+        "name": "DETECT",
+        "domainId": 433,
+        "type": "categoryDetail",
+        "children": [
+          {
+            "name": "Anomalies and Events",
+            "type": "categoryDetail",
+            "domainId": 433,
+            "categoryId": 1629
+          },
+          {
+            "name": "Security Continuous Monitoring",
+            "type": "categoryDetail",
+            "domainId": 433,
+            "categoryId": 1630
+          },
+          {
+            "name": "Detection Processes",
+            "type": "categoryDetail",
+            "domainId": 433,
+            "categoryId": 1631
+          }
+        ]
+      },
+      {
+        "name": "RESPOND ",
+        "domainId": 434,
+        "type": "categoryDetail",
+        "children": [
+          {
+            "name": "Response Planning",
+            "type": "categoryDetail",
+            "domainId": 434,
+            "categoryId": 1632
+          },
+          {
+            "name": "Communications",
+            "type": "categoryDetail",
+            "domainId": 434,
+            "categoryId": 1633
+          },
+          {
+            "name": "Analysis",
+            "type": "categoryDetail",
+            "domainId": 434,
+            "categoryId": 1634
+          },
+          {
+            "name": "Mitigation",
+            "type": "categoryDetail",
+            "domainId": 434,
+            "categoryId": 1635
+          },
+          {
+            "name": "Improvements",
+            "type": "categoryDetail",
+            "domainId": 434,
+            "categoryId": 1636
+          }
+        ]
+      },
+      {
+        "name": "RECOVER",
+        "domainId": 435,
+        "type": "categoryDetail",
+        "children": [
+          {
+            "name": "Recovery Planning",
+            "type": "categoryDetail",
+            "domainId": 435,
+            "categoryId": 1637
+          },
+          {
+            "name": "Improvements",
+            "type": "categoryDetail",
+            "domainId": 435,
+            "categoryId": 1638
+          },
+          {
+            "name": "Communications",
+            "type": "categoryDetail",
+            "domainId": 435,
+            "categoryId": 1639
+          }
+        ]
+      },
+      {
+        "name": "Target Maturity",
+        "domainId": 0,
+        "type": "target",
+        "children": null
+      },
+      {
+        "name": "IDENTIFY",
+        "type": "targetMaturity",
+        "domainId": 431
+      },
+      {
+        "name": "PROTECT",
+        "type": "targetMaturity",
+        "domainId": 432
+      },
+      {
+        "name": "DETECT",
+        "type": "targetMaturity",
+        "domainId": 433
+      },
+      {
+        "name": "RESPOND ",
+        "type": "targetMaturity",
+        "domainId": 434
+      },
+      {
+        "name": "RECOVER",
+        "type": "targetMaturity",
+        "domainId": 435
+      }
+    ]
   }
+}
