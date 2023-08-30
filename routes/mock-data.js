@@ -61,6 +61,7 @@ const COLORTHEME = require('../data/color_theme.json');
 
 const BASEREPORT = require('../data/base_report.json');
 const ACTIVITY = require('../data/activity.json');
+const MAPPINGDETAIL = require('../data/mappigdetail.json');
 
 
 
@@ -270,6 +271,11 @@ router.get('/basereport', function(req, res, next) {
 router.get('/activity', function(req, res, next) {
   res.send(ACTIVITY);
 });
+router.get('/mappingDetail', function(req, res, next) {
+  res.send(ACTIVITY);
+});
+
+
 
 
 

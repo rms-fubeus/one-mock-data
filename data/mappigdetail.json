@@ -1,0 +1,87 @@
+{
+    "message": "",
+    "status": 200,
+    "data": [
+        {
+            "baseDomainId":"ID",
+            "baseCategoryId":"BE",
+            "baseSubCategoryId":"ID.BE-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"ID",
+            "baseCategoryId":"BE",
+            "baseSubCategoryId":"ID.BE-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-2",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"ID",
+            "baseCategoryId":"BE",
+            "baseSubCategoryId":"ID.BE-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-3",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"PT",
+            "baseCategoryId":"AB",
+            "baseSubCategoryId":"PT.AB-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"PT",
+            "baseCategoryId":"AB",
+            "baseSubCategoryId":"PT.AB-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"DT",
+            "baseCategoryId":"BC",
+            "baseSubCategoryId":"DT.BC-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"DT",
+            "baseCategoryId":"BC",
+            "baseSubCategoryId":"DT.BC-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"DT",
+            "baseCategoryId":"BC",
+            "baseSubCategoryId":"DT.BC-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        }
+        
+    ]
+}
