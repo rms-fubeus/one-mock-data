@@ -272,7 +272,7 @@ router.get('/activity', function(req, res, next) {
   res.send(ACTIVITY);
 });
 router.get('/mappingDetail', function(req, res, next) {
-  res.send(ACTIVITY);
+  res.send(MAPPINGDETAIL);
 });
 
 
