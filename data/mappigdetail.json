@@ -57,10 +57,10 @@
             "baseCategoryId":"PT",
             "baseSubCategoryId":"ID.PT-2",
             "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
-            "targetDomainId":"ID",
-            "targetCategoryId":"SC",
-            "targetSubCategoryId":"ID.SC-3",
-            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+            "targetDomainId":"",
+            "targetCategoryId":"",
+            "targetSubCategoryId":"",
+            "targetDescription":""
         },
         {
             "baseDomainId":"PT",
@@ -106,6 +106,16 @@
             "baseDomainId":"DT",
             "baseCategoryId":"BC",
             "baseSubCategoryId":"DT.BC-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-1",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        }
+        {
+            "baseDomainId":"AZ",
+            "baseCategoryId":"BZ",
+            "baseSubCategoryId":"AZ.BZ-1",
             "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
             "targetDomainId":"ID",
             "targetCategoryId":"SC",
