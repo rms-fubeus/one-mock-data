@@ -117,10 +117,10 @@
             "baseCategoryId":"BZ",
             "baseSubCategoryId":"AZ.BZ-1",
             "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
-            "targetDomainId":"ID",
-            "targetCategoryId":"SC",
-            "targetSubCategoryId":"ID.SC-1",
-            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+            "targetDomainId":"",
+            "targetCategoryId":"",
+            "targetSubCategoryId":"",
+            "targetDescription":""
         }
         
     ]
