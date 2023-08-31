@@ -25,7 +25,37 @@
         {
             "baseDomainId":"ID",
             "baseCategoryId":"BE",
-            "baseSubCategoryId":"ID.BE-1",
+            "baseSubCategoryId":"ID.BE-2",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-3",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"ID",
+            "baseCategoryId":"BE",
+            "baseSubCategoryId":"ID.BE-2",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-3",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"ID",
+            "baseCategoryId":"PT",
+            "baseSubCategoryId":"ID.PT-1",
+            "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
+            "targetDomainId":"ID",
+            "targetCategoryId":"SC",
+            "targetSubCategoryId":"ID.SC-3",
+            "targetDescription":"Lorem Lorem Lorem Lorem Lorem"
+        },
+        {
+            "baseDomainId":"ID",
+            "baseCategoryId":"PT",
+            "baseSubCategoryId":"ID.PT-2",
             "baseDescription":"Lorem Lorem Lorem Lorem Lorem",
             "targetDomainId":"ID",
             "targetCategoryId":"SC",
