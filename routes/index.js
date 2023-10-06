@@ -58,13 +58,14 @@ router.get("/", function (req, res, next) {
         skills: "/api/skill",
         user_management: "/api/user",
         job_opening: "/api/jobs",
-        company_template: "api/company_template"
+        company_template: "api/company_template",
         // purge: "/api/purge",
         // purgeClinet:"/api/purgeClinet",
         // colorTheme:"/api/colorTheme",
         // basereport:"/api/basereport",
         // activity:"/api/activity",
         // mappingDetail:"/api/mappingDetail"
+        skill: "api/skill"
         
       },
   });
