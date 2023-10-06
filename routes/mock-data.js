@@ -55,6 +55,17 @@ const REPORTS_MATURITY = require('../data/reports_maturity.json');
 const REPORTS_READINESS = require('../data/reports_readiness.json');
 const REPORTS_SSA = require('../data/reports_ssa.json');
 const NOTIFICATION = require('../data/notification.json');
+const PURGE = require('../data/purge_data.json');
+const PURGECLINET = require('../data/client_assessmentList.json');
+const COLORTHEME = require('../data/color_theme.json');
+
+const BASEREPORT = require('../data/base_report.json');
+const ACTIVITY = require('../data/activity.json');
+const MAPPINGDETAIL = require('../data/mappigdetail.json');
+
+
+
+
 
 const SKILLS = require('../data/CAT2.0/skills.json');
 const USER_MANAGEMENT = reqiure('../data/CAT2.0/user_management.json');
@@ -264,6 +275,39 @@ router.get('/jobs', function(req, res, next) {
 // router.get('/notification', function(req, res, next) {
 //   res.send(NOTIFICATION);
 // });
+
+router.get('/purge', function(req, res, next) {
+  res.send(PURGE);
+});
+
+router.get('/purgeClinet', function(req, res, next) {
+  res.send(PURGECLINET);
+});
+
+router.get('/colorTheme', function(req, res, next) {
+  res.send(COLORTHEME);
+});
+
+router.get('/basereport', function(req, res, next) {
+  res.send(BASEREPORT);
+});
+
+router.get('/activity', function(req, res, next) {
+  res.send(ACTIVITY);
+});
+router.get('/mappingDetail', function(req, res, next) {
+  res.send(MAPPINGDETAIL);
+});
+
+
+
+
+
+
+
+
+
+
 
 
 
