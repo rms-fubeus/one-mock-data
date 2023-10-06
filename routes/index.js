@@ -9,7 +9,7 @@ router.get("/", function (req, res, next) {
 
         role: "/api/role",
         skills: "/api/skill",
-        user: "/api/user",
+        // user: "/api/user",
         jobs: "/api/jobs",
         company_template: "api/company_template",
         // purge: "/api/purge",
