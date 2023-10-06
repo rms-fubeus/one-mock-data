@@ -1,85 +1,23 @@
 var express = require('express');
 var router = express.Router();
 
-const CLIENT = require('../data/clients.json');
-const USERS = require('../data/users.json');
-const ROLES = require('../data/roles.json');
-const ACTIONS = require('../data/sample_actions.json');
-const RESOURCES = require('../data/resources.json');
-
-const SAMPLE_MAIN_MENU = require('../data/main_menu.json');
-const ROLE_DETAIL = require('../data/role_detail.json');
-const CLIENT_DETAIL = require('../data/client_detail.json');
-const FRAMEWORk = require('../data/framework.json');
-const FRAMEWORk_DETAIL = require('../data/framework_detail.json');
-const SURVEY_TEMPLATES = require('../data/survey_template.json');
-const SURVEY_TEMPLATES_DEATIL = require('../data/survey_template_detail.json');
-const INTERVIEW_TEMPLATES_DEATIL = require('../data/interview_detail.json');
-
-const MATURITY_MODEL = require('../data/maturity_model.json');
-const MATURITY_MODEL_DEATIL = require('../data/maturity_detail.json');
-
-const SCCORING_LOGIC = require('../data/scoring_logic.json');
-const SCCORING_LOGIC_DEATIL = require('../data/scoring_logic_detail.json');
-
-const MAPPING = require('../data/mapping.json');
-const MAPPING_DEATIL = require('../data/mapping_detail.json');
-
-const INITIATIVES = require('../data/analyze_initiatives.json');
-const RECOMENDATION = require('../data/analyze_recomendation.json');
-const GAPS = require('../data/analyze_gaps.json');
-const GAPSBYID = require('../data/analyze_gapsbyId.json');
-
-const ASSESSMENTINFO = require('../data/profile_assessment_information.json');
-const ORGINFO = require('../data/org_info.json');
-const RISKAPPETITE = require('../data/risk_appetite.json');
-const CROWNJEWEL = require('../data/profile_crown_jewel.json');
-
-const SURVEYINFO = require('../data/profile_survey.json');
-const JEWELINFO = require('../data/profile_crown_jewel.json');
-const PROFILEMENU = require('../data/profile_menu.json');
-const STACKHOLDERWISERATING = require('../data/stack_holder_wise_rating.json');
-const ADDSTACKHOLDER = require('../data/add_stack_holder.json');
-const GETSTACKHOLDERBYID = require('../data/get_stackHolder_byId.json');
-
-const ASSESS_SIDENAV = require('../data/assess_maturity_sidenav.json');
-const ASSESS_MATURITY_CURRENT = require('../data/assess_maturity_current.json');
-const ASSESS_MATURITY_DOMAIN = require('../data/assess_maturity_domain.json');
-const ASSESS_TARGET = require('../data/assess_maturity_target.json');
-const ASSESS_READINESS_CURRENT = require('../data/assess_readiness_current.json');
-const ASSESS_READINESS_DOMAIN = require('../data/assess_readiness_domain.json');
-const ASSESS_SSA_CURRENT = require('../data/assess_ssa_current.json');
-const ASSESS_SSA_DOMAIN = require('../data/assess_ssa_domain.json');
-
-const REPORTS_MATURITY = require('../data/reports_maturity.json');
-const REPORTS_READINESS = require('../data/reports_readiness.json');
-const REPORTS_SSA = require('../data/reports_ssa.json');
-const NOTIFICATION = require('../data/notification.json');
-const PURGE = require('../data/purge_data.json');
-const PURGECLINET = require('../data/client_assessmentList.json');
-const COLORTHEME = require('../data/color_theme.json');
-
-const BASEREPORT = require('../data/base_report.json');
-const ACTIVITY = require('../data/activity.json');
-const MAPPINGDETAIL = require('../data/mappigdetail.json');
 
 
 
 
-
-const SKILLS = require('../data/CAT2.0/skills.json');
-const USER_MANAGEMENT = reqiure('../data/CAT2.0/user_management.json');
-const ROLE_MANAGEMENT = require('../data/CAT2.0/role_management.json');
-const COMPANY_TEMPLATE = require('../data/CAT2.0/company_template.json');
-const JOB_OPENING = require('../data/CAT2.0/job_opening.json');
+const SKILLS = require('../data/skills.json');
+// const USER_MANAGEMENT = reqiure('../data/user');
+const ROLE_MANAGEMENT = require('../data/role_management.json');
+const COMPANY_TEMPLATE = require('../data/company_template.json');
+const JOB_OPENING = require('../data/job_opening.json');
 
 
 router.get('/skill', function(req, res, next) {
   res.send(SKILLS);
 });
-router.get('/user', function(req, res, next) {
-  res.send(USER_MANAGEMENT);
-});
+// router.get('/user', function(req, res, next) {
+//   res.send(USER_MANAGEMENT);
+// });
 router.get('/role', function(req, res, next) {
   res.send(ROLE_MANAGEMENT);
 });
