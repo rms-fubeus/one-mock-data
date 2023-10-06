@@ -1,0 +1,134 @@
+{
+    "status": 200,
+    "message": "",
+    "Data":[{
+        "id": 1,
+        "postingTitle": "Backend Develeoper",
+        "noOfPosition": 2,
+        "recruiter": [{
+                "id":1,
+                "name":"John"},
+            {
+                "id":2,
+                "name":"micky"
+            }],
+        "targetDate": "2023-06-10T20:05:24.318Z",
+        "status": "open",
+        "experience": 7,
+        "skills":[
+            {
+                "id":1,
+                "name":"Java"
+            },{
+                "id":2,
+                "name":"Html"
+            },{
+                "id":3,
+                "name":"Css"
+            },{
+                "id":4,
+                "name":"Hibernate"
+            },{
+                "id":5,
+                "name":"J2EE"
+            }
+        ],
+        "hiringManager":"Seema",
+        "jobType":"full time",
+        "rounds": 2
+    },{
+        "id": 2,
+        "postingTitle": "Backend Develeoper",
+        "noOfPosition": 2,
+        "recruiter": [{
+            "id":1,
+            "name":"John"},{
+            "id":2,
+            "name":"Kethy west DDS"
+            }
+        ],
+        "targetDate": "2023-06-10T20:05:24.318Z",
+        "status": "open",
+        "experience": 7,
+        "skills":[
+            {
+                "id":1,
+                "name":"Java"
+            },{
+                "id":2,
+                "name":"Html"
+            },{
+                "id":3,
+                "name":"Css"
+            },{
+                "id":4,
+                "name":"Spring boot"
+            }
+        ],
+        "hiringManager":"Seema",
+        "jobType":"full time",
+        "rounds": 2
+    },{
+        "id": 3,
+        "postingTitle": "Frontend Develeoper",
+        "noOfPosition": 2,
+        "recruiter": [{
+            "id":1,
+            "name":"John"},{
+            "id":2,
+            "name":"Kethy west DDS"
+            }
+        ],
+        "targetDate": "2023-06-10T20:05:24.318Z",
+        "status": "open",
+        "experience": 7,
+        "skills":[
+            {
+                "id":1,
+                "name":"Angular"
+            },{
+                "id":2,
+                "name":"Html"
+            },{
+                "id":3,
+                "name":"Css"
+            }
+        ],
+        "hiringManager":"Seema",
+        "jobType":"full time",
+        "rounds": 2
+    },
+    {
+        "id": 4,
+        "postingTitle": "Tester",
+        "noOfPosition": 2,
+        "recruiter": [
+            {
+            "id":1,
+            "name":"Irma Bruen"},
+            {
+            "id":2,
+            "name":"Spencer Balistreri"
+            }
+        ],
+        "targetDate": "2023-06-10T20:05:24.318Z",
+        "status": "open",
+        "experience": 7,
+        "skills":[
+            {
+                "id":1,
+                "name":"Automation"
+            },{
+                "id":2,
+                "name":"Selenium"
+            },{
+                "id":3,
+                "name":"Python"
+            }
+        ],
+        "hiringManager":"Seema",
+        "jobType":"full time",
+        "rounds": 2
+    }
+]
+}

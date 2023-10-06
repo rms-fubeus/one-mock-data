@@ -1,0 +1,92 @@
+{
+    "status": 200,
+    "message": "",
+    "data":[{
+        "id":1,
+        "roleName":"Back End Developer",
+        "skills":[{
+            "id":1,
+            "name":"Java"
+        },{
+            "id":2,
+            "name":"Html"
+        },{
+            "id":3,
+            "name":"Css"
+        }
+    ]
+    },
+    {
+        "id":2,
+        "roleName":"Front End Developer",
+        "skills":[{
+            "id":1,
+            "name":"Angular"
+        },{
+            "id":2,
+            "name":"Html"
+        },{
+            "id":3,
+            "name":"Css"
+        },{
+            "id":4,
+            "name":"Java Script"
+        }
+    ]
+    },
+    {
+        "id":3,
+        "roleName":"Product Manager",
+        "skills":[{
+            "id":1,
+            "name":"Angular"
+        },{
+            "id":2,
+            "name":"Html"
+        },{
+            "id":3,
+            "name":"Css"
+        },{
+            "id":4,
+            "name":"Java Script"
+        }
+    ]
+    },
+    {
+        "id":4,
+        "roleName":"Techniqual support",
+        "skills":[{
+            "id":1,
+            "name":"Angular"
+        },{
+            "id":2,
+            "name":"Html"
+        },{
+            "id":3,
+            "name":"Css"
+        },{
+            "id":4,
+            "name":"Java Script"
+        }
+    ]
+    },
+    {
+        "id":5,
+        "roleName":"Senior Backend Developer",
+        "skills":[{
+            "id":1,
+            "name":"Angular"
+        },{
+            "id":2,
+            "name":"Html"
+        },{
+            "id":3,
+            "name":"Css"
+        },{
+            "id":4,
+            "name":"Java Script"
+        }
+    ]
+    }
+]
+}

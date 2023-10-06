@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "message": "",
+    "Data":[{
+        "id":1,
+        "templateName":"Candidates",
+        "subject":"Assa",
+        "status":"New",
+        "content":"lorem lorem lorem lorem lorem lorem"
+    },
+    {
+        "id":2,
+        "templateName":"Evaluater",
+        "subject":"Assa",
+        "status":"In Use",
+        "content":"lorem lorem lorem lorem lorem lorem"
+    },
+    {
+        "id":3,
+        "templateName":"Candidates1",
+        "subject":"Assa",
+        "status":"New",
+        "content":"lorem lorem lorem lorem lorem lorem"
+    },
+    {
+        "id":4,
+        "templateName":"Test remainder mail",
+        "subject":"Assa",
+        "status":"New",
+        "content":"lorem lorem lorem lorem lorem lorem"
+    }
+]
+}
