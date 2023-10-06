@@ -18,15 +18,15 @@ router.get('/skill', function(req, res, next) {
 // router.get('/user', function(req, res, next) {
 //   res.send(USER_MANAGEMENT);
 // });
-// router.get('/role', function(req, res, next) {
-//   res.send(ROLE_MANAGEMENT);
-// });
-// router.get('/company_template', function(req, res, next) {
-//   res.send(COMPANY_TEMPLATE);
-// });
-// router.get('/jobs', function(req, res, next) {
-//   res.send(JOB_OPENING);
-// });
+router.get('/role', function(req, res, next) {
+  res.send(ROLE_MANAGEMENT);
+});
+router.get('/company_template', function(req, res, next) {
+  res.send(COMPANY_TEMPLATE);
+});
+router.get('/jobs', function(req, res, next) {
+  res.send(JOB_OPENING);
+});
 
 
 // router.get('/assess/sidenav', function(req, res, next) {
