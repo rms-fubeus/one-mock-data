@@ -11,6 +11,7 @@ router.get("/", function (req, res, next) {
         skills: "/api/skill",
         user: "/api/user",
         jobs: "/api/jobs",
+        users: "/api/users",
         company_template: "api/company_template",
         // purge: "/api/purge",
         // purgeClinet:"/api/purgeClinet",

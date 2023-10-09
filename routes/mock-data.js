@@ -10,6 +10,7 @@ const ROLE_MANAGEMENT = require('../data/role_management.json');
 const COMPANY_TEMPLATE = require('../data/company_template.json');
 const JOB_OPENING = require('../data/job_opening.json');
 const USER_MANAGEMENT = require('../data/user_management.json');
+const USER = require('../data/user.json')
 
 router.get('/skill', function(req, res, next) {
   res.send(SKILLS);
@@ -25,6 +26,9 @@ router.get('/company_template', function(req, res, next) {
 });
 router.get('/jobs', function(req, res, next) {
   res.send(JOB_OPENING);
+});
+router.get('/users', function(req, res, next) {
+  res.send(USER);
 });
 
 

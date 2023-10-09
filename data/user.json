@@ -1,0 +1,49 @@
+{
+    "status": 200,
+    "message": "",
+    "Data":[{
+        "id": 1,
+        "name": "Spencer Balistreri",
+        "email": "Alvah.Walter@yahoo.com",
+        "phone": "1122222222",
+        "designation":"Backend Develeoper",
+        "role": {
+          "id": 2,
+          "name": "Evaluator"
+        }
+      },
+        {
+        "id": 2,
+        "name": "Kathy West DDS",
+        "email": "kathy@yahoo.com",
+        "phone": "1122222222",
+        "designation":"HR",
+        "role": {
+          "id": 3,
+          "name": "HR"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Irma Bruen",
+        "email": "irma@yahoo.com",
+        "phone": "1122222222",
+        "designation":"Full stack developer",
+        "role": {
+          "id": 1,
+          "name": "Admin"
+        }
+      },
+      {
+        "id": 4,
+        "name": "John Doe",
+        "email": "jogn@yahoo.com",
+        "phone": "1122222222",
+        "designation":"Front End developer",
+        "role": {
+          "id": 2,
+          "name": "Evaluator"
+        }
+      }
+    ]
+}
