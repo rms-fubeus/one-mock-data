@@ -6,7 +6,7 @@ var router = express.Router();
 
 
 const SKILLS = require('../data/skills.json');
-// const USER_MANAGEMENT = reqiure('../data/user_management.json');
+const USER_MANAGEMENT = reqiure('../data/user_management.json');
 const ROLE_MANAGEMENT = require('../data/role_management.json');
 const COMPANY_TEMPLATE = require('../data/company_template.json');
 const JOB_OPENING = require('../data/job_opening.json');
@@ -15,9 +15,9 @@ const JOB_OPENING = require('../data/job_opening.json');
 router.get('/skill', function(req, res, next) {
   res.send(SKILLS);
 });
-// router.get('/user', function(req, res, next) {
-//   res.send(USER_MANAGEMENT);
-// });
+router.get('/user', function(req, res, next) {
+  res.send(USER_MANAGEMENT);
+});
 router.get('/role', function(req, res, next) {
   res.send(ROLE_MANAGEMENT);
 });
