@@ -3,7 +3,11 @@
     "message": "",
     "Data":[{
         "id": 1,
-        "postingTitle": "Backend Develeoper",
+        "postingTitle": [
+            {
+                "id":1,
+                "role":"Backend Develeoper"
+            }],
         "noOfPosition": 2,
         "recruiter": [{
                 "id":1,
@@ -13,7 +17,9 @@
                 "name":"micky"
             }],
         "targetDate": "2023-06-10T20:05:24.318Z",
-        "status": "open",
+        "status": [{
+            "id":1,
+            "status":"open"}],
         "experience": 7,
         "skills":[
             {
@@ -33,12 +39,21 @@
                 "name":"J2EE"
             }
         ],
-        "hiringManager":"Seema",
-        "jobType":"full time",
+        "hiringManager":[
+            { "id":1,
+              "name": "Seema"}],
+        "jobType":[
+            {
+            "id": 1,
+            "type": "full time"}],
         "rounds": 2
     },{
         "id": 2,
-        "postingTitle": "Backend Develeoper",
+        "postingTitle": [
+            {
+            "id":1,
+            "role":"Backend Develeoper"}
+        ],
         "noOfPosition": 2,
         "recruiter": [{
             "id":1,
@@ -48,7 +63,9 @@
             }
         ],
         "targetDate": "2023-06-10T20:05:24.318Z",
-        "status": "open",
+        "status":[{
+            "id":1,
+            "status":"open"}],
         "experience": 7,
         "skills":[
             {
@@ -65,12 +82,23 @@
                 "name":"Spring boot"
             }
         ],
-        "hiringManager":"Seema",
-        "jobType":"full time",
+        "hiringManager":[
+            {
+            "id":1,
+            "name":"Seema"}
+        ],
+        "jobType":[
+            {
+                "id":2,
+                "type":"part time"}],
         "rounds": 2
     },{
         "id": 3,
-        "postingTitle": "Frontend Develeoper",
+        "postingTitle": [
+            {
+            "id":2,
+            "role":"Frontend Develeoper"}
+        ],
         "noOfPosition": 2,
         "recruiter": [{
             "id":1,
@@ -80,7 +108,9 @@
             }
         ],
         "targetDate": "2023-06-10T20:05:24.318Z",
-        "status": "open",
+        "status": [{
+            "id":1,
+            "status":"open"}],
         "experience": 7,
         "skills":[
             {
@@ -94,13 +124,21 @@
                 "name":"Css"
             }
         ],
-        "hiringManager":"Seema",
+        "hiringManager":[
+            {
+            "id":1,
+            "name":"Seema"}
+        ],
         "jobType":"full time",
         "rounds": 2
     },
     {
         "id": 4,
-        "postingTitle": "Tester",
+        "postingTitle": [
+            {
+                "id":3,
+                "role":"Tester"}
+            ],
         "noOfPosition": 2,
         "recruiter": [
             {
@@ -112,7 +150,10 @@
             }
         ],
         "targetDate": "2023-06-10T20:05:24.318Z",
-        "status": "open",
+        "status": [
+            {
+                "id":1,
+                "status":"open"}],
         "experience": 7,
         "skills":[
             {
@@ -126,8 +167,18 @@
                 "name":"Python"
             }
         ],
-        "hiringManager":"Seema",
-        "jobType":"full time",
+        "hiringManager":[
+            {
+                "id":1,
+                "name":"Seema"
+            }
+            ],
+        "jobType":[
+            {
+                "id":1,
+                "type":"full time"
+            }
+            ],
         "rounds": 2
     }
 ]
